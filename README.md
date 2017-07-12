@@ -10,7 +10,7 @@ the codes of my Machine Learning (neural network, deep learning ... ...) study.
 * Classification
 
 * Neural Network
-
+	* Back Propagation 
 
 ### Ref:
 
