@@ -1,8 +1,9 @@
 # ML-Learning
 
-the codes of my Machine Learning (neural network, deep learning ... ...) study.
+这个Repository主要用于记录个人机器学习（包括神经网络，深度学习等）的学习笔记（cai keng li shi）。
 
 ### Catalog
+
 * Regression
 	* Linear Regression
 	* Logistic Regression
@@ -10,7 +11,10 @@ the codes of my Machine Learning (neural network, deep learning ... ...) study.
 * Classification
 
 * Neural Network
+	* 《机器学习》第5章 
 	* Back Propagation 
+		* [一文弄懂神经网络中的反向传播法——BackPropagation](http://www.cnblogs.com/charlotte77/p/5629865.html)
+
 
 ### Ref:
 
