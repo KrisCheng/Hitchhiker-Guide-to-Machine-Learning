@@ -2,7 +2,7 @@
 
 这个repository主要用于记录个人机器学习（包括神经网络，深度学习等）的学习笔记（cai keng li shi）。
 
-## Catalog
+## Theory
 
 * Regression
 	* Linear Regression
@@ -19,9 +19,14 @@
 	* bias
 	* variance 
 
+## Framework
 
-## Ref:
+* TensorFlow
+
+## Userful links:
 
 1. [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome)
 
 2. [机器学习（周志华）](https://book.douban.com/subject/26708119/)
+
+3. [TensorFlow实战](https://book.douban.com/subject/26974266/）)
