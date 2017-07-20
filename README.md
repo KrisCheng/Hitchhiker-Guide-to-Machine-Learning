@@ -22,6 +22,7 @@
 ## Framework
 
 * TensorFlow
+	* [TensorFlow学习笔记1：入门](http://www.jeyzhang.com/tensorflow-learning-notes.html)
 
 ## Userful links:
 
@@ -30,3 +31,7 @@
 2. [机器学习（周志华）](https://book.douban.com/subject/26708119/)
 
 3. [TensorFlow实战](https://book.douban.com/subject/26974266/)
+
+4. [MNIST数据集] (http://yann.lecun.com/exdb/mnist/)
+
+5. [TensorFlow 官方文档中文版] (http://wiki.jikexueyuan.com/project/tensorflow-zh/)

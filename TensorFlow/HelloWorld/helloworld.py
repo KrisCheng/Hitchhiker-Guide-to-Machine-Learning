@@ -1,4 +1,5 @@
 # the hello world program
+__autohr__ = 'Kris Chan'
 
 import tensorflow as tf
 hello = tf.constant('Hello, TensorFlow!')
