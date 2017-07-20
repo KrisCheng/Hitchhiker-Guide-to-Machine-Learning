@@ -1,6 +1,6 @@
 # ML-Learning
 
-这个repository主要用于记录个人机器学习（包括神经网络，深度学习等）的学习笔记（cai keng li shi）。
+这个repository主要用于记录个人机器学习（包括神经网络，深度学习等）的学习（cai keng)笔记。
 
 ## Theory
 
@@ -29,4 +29,4 @@
 
 2. [机器学习（周志华）](https://book.douban.com/subject/26708119/)
 
-3. [TensorFlow实战](https://book.douban.com/subject/26974266/）)
+3. [TensorFlow实战](https://book.douban.com/subject/26974266/)
