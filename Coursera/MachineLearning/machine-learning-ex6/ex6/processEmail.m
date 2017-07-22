@@ -96,18 +96,12 @@ while ~isempty(email_contents)
     % Note: You can use strcmp(str1, str2) to compare two strings (str1 and
     %       str2). It will return 1 only if the two strings are equivalent.
     %
-
-
-
-
-
-
-
-
-
-
     % =============================================================
 
+    idx = strmatch(str, vocabList, 'exact');
+    if ~isempty(idx)
+        word_indices = [word_indices; idx];
+    end
 
     % Print to screen, ensuring that the output lines are not too long
     if (l + length(str) + 1) > 78
