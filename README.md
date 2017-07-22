@@ -20,6 +20,7 @@
 	* variance 
 
 * Support Vector Machine
+	* [Wiki](https://en.wikipedia.org/wiki/Support_vector_machine) 
 	* 《机器学习》第6章
 	* Decision Boundary
 	* Kernel
