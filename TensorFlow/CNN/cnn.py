@@ -1,9 +1,12 @@
-# the basic CNN of TensorFlow
-__autohr__ = 'Kris Peng'
+# the basic example of CNN of TensorFlow
 
+__author__ = 'Kris Peng'
+
+# 导入TF和MNIST数据集
 import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
 
+# 设置weight和bias函数
 def weight_varible(shape):
     initial = tf.truncated_normal(shape, stddev = 0.1)
     return tf.Variable(initial)
@@ -12,6 +15,7 @@ def bias_variable(shape):
     initial = tf.constant(0.1, shape = shape)
     return tf.Variable(initial)
 
+# 设置卷积层和池化层
 def conv2d(x, W):
     return tf.nn.conv2d(x, W, strides = [1, 1, 1, 1], padding = 'SAME')
 
@@ -24,14 +28,16 @@ print("Download Finished!")
 sess = tf.InteractiveSession()
 
 # paras
-W_conv1 = weight_varible([5, 5, 1, 32])
+W_conv1 = weight_varible([5, 5, 1, 32]) # 卷积核尺寸为5*5 1个颜色通道 32个不同的卷积核
 b_conv1 = bias_variable([32])
 
 # conv layer-1
 x = tf.placeholder(tf.float32, [None, 784])
+
+# 使用tensor变形函数
 x_image = tf.reshape(x, [-1, 28, 28, 1])
 
-h_conv1 = tf.nn.relu(conv2d(x_image, W_conv1) + b_conv1)
+h_conv1 = tf.nn.relu(conv2d(x_image, W_conv1) + b_conv1) # 激活函数
 h_pool1 = max_pool_2x2(h_conv1)
 
 # conv layer-2
@@ -48,7 +54,7 @@ b_fc1 = bias_variable([1024])
 h_pool2_flat = tf.reshape(h_pool2, [-1, 7 * 7 * 64])
 h_fc1 = tf.nn.relu(tf.matmul(h_pool2_flat, W_fc1) + b_fc1)
 
-# dropout
+# dropout 训练时随机丢弃一部分节点数据来减轻过拟合
 keep_prob = tf.placeholder(tf.float32)
 h_fc1_drop = tf.nn.dropout(h_fc1, keep_prob)
 

@@ -1,5 +1,5 @@
 # the hello world program
-__autohr__ = 'Kris Peng'
+__author__ = 'Kris Peng'
 
 import tensorflow as tf
 hello = tf.constant('Hello, TensorFlow!')

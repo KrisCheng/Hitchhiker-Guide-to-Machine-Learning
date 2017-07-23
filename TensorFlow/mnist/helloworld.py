@@ -1,5 +1,5 @@
 # the hello world program of MNIST dataset
-__autohr__ = 'Kris Peng'
+__author__ = 'Kris Peng'
 
 import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
