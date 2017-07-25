@@ -32,6 +32,10 @@
 	* [卷积神经网络(CNN)学习笔记1：基础入门](http://www.jeyzhang.com/cnn-learning-notes-1.html)
 
 * Unsupervised learning
+	* K-Means
+
+* Dimensionality Reduction
+	* PCA 
 
 注：《机器学习》代指周志华所著[《机器学习》](https://book.douban.com/subject/26708119/)一书。
 
