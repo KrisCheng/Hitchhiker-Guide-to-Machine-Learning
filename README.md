@@ -38,6 +38,9 @@
 		* 《机器学习》第10章 
 		* PCA
 
+* Anomaly detection
+
+
 注：《机器学习》代指周志华所著[《机器学习》](https://book.douban.com/subject/26708119/)一书。
 
 ## Framework
