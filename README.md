@@ -64,3 +64,5 @@
 6. [Deep Learning（深度学习）学习笔记整理系列](http://blog.csdn.net/zouxy09/article/details/8775360)
 
 7. [台湾大学李宏毅教案](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html) 
+
+8. [机器学习基石 台湾大学 林轩田](https://www.coursera.org/learn/ntumlone-mathematicalfoundations/home/welcome)
