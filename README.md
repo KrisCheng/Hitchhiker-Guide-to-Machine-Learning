@@ -40,7 +40,6 @@
 
 * Anomaly detection
 
-
 注：《机器学习》代指周志华所著[《机器学习》](https://book.douban.com/subject/26708119/)一书。
 
 ## Framework
@@ -66,3 +65,5 @@
 7. [台湾大学李宏毅教案](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html) 
 
 8. [机器学习基石 台湾大学 林轩田](https://www.coursera.org/learn/ntumlone-mathematicalfoundations/home/welcome)
+
+9. [Deep Learning](http://www.deeplearningbook.org/)
