@@ -37,10 +37,20 @@
 	* Dimensionality Reduction
 		* 《机器学习》第10章 
 		* PCA
-
+			* 《DeepLearning》2.12 	
+			*  [Principal Component Analysis Problem Formulation (Coursera)](https://www.coursera.org/learn/machine-learning/lecture/GBFTt/principal-component-analysis-problem-formulation)
+			
 * Anomaly detection
 
-注：《机器学习》代指周志华所著[《机器学习》](https://book.douban.com/subject/26708119/)一书。
+* Collaborative filtering
+
+* Mean Normalization
+
+注：
+
+《机器学习》代指周志华所著[《机器学习》](https://book.douban.com/subject/26708119/)一书。
+
+《DeepLearning》代指Ian Goodfellow and Yoshua Bengio and Aaron Courville所著[《DeepLearning》](http://www.deeplearningbook.org/)一书。
 
 ## Framework
 
