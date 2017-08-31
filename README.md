@@ -6,6 +6,8 @@
 
 * Regression
 	* Linear Regression
+		* 《DeepLearning》5.1.4
+ 
 	* Logistic Regression
 
 * Classification
@@ -25,7 +27,7 @@
 	* Decision Boundary
 	* Kernel
 
-* 卷积神经网络（Convolutional Neural Networks）
+* Convolutional Neural Networks（卷积神经网络）
 	* [台湾大学李宏毅CNN视频](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/CNN.mp4)
 	* [Deep Learning（深度学习）学习笔记整理系列之（七）](http://blog.csdn.net/zouxy09/article/details/8781543)
 	* [卷积神经网络(CNN)学习笔记1：基础入门](http://www.jeyzhang.com/cnn-learning-notes-1.html)
@@ -45,6 +47,15 @@
 * Collaborative filtering
 
 * Mean Normalization
+
+* Gradient Descent
+	* Batch Gradient Descent 
+	* Stochastic Gradient Descent 
+	* Mini-batch Gradient Descent 
+
+* Online Learning
+
+* Newton's method(牛顿法)
 
 注：
 
