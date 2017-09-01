@@ -9,6 +9,7 @@
 		* 《DeepLearning》5.1.4
  
 	* Logistic Regression
+	* Regularzation
 
 * Classification
 
@@ -20,26 +21,34 @@
 * Evaluation
 	* bias
 	* variance 
-
-* Support Vector Machine
-	* [Wiki](https://en.wikipedia.org/wiki/Support_vector_machine) 
-	* 《机器学习》第6章
-	* Decision Boundary
-	* Kernel
+	
 
 * Convolutional Neural Networks（卷积神经网络）
 	* [台湾大学李宏毅CNN视频](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/CNN.mp4)
 	* [Deep Learning（深度学习）学习笔记整理系列之（七）](http://blog.csdn.net/zouxy09/article/details/8781543)
 	* [卷积神经网络(CNN)学习笔记1：基础入门](http://www.jeyzhang.com/cnn-learning-notes-1.html)
 
+* Supervised learning
+	* 《DeepLearning》5.7
+	* Support Vector Machine
+		* [Wiki](https://en.wikipedia.org/wiki/Support_vector_machine) 
+		* 《机器学习》第6章
+		* Decision Boundary
+		* Kernel
+
+	* desision tree
+
 * Unsupervised learning
+	* 《DeepLearning》5.8 
 	* Clustering
 		* 《机器学习》第9章
 		* K-means
+			* 《DeepLearning》5.8.2
+
 	* Dimensionality Reduction
 		* 《机器学习》第10章 
 		* PCA
-			* 《DeepLearning》2.12 	
+			* 《DeepLearning》2.12 	&& 5.8.1
 			*  [Principal Component Analysis Problem Formulation (Coursera)](https://www.coursera.org/learn/machine-learning/lecture/GBFTt/principal-component-analysis-problem-formulation)
 			
 * Anomaly detection
@@ -51,11 +60,18 @@
 * Gradient Descent
 	* Batch Gradient Descent 
 	* Stochastic Gradient Descent 
+		* 《DeepLearning》5.9
 	* Mini-batch Gradient Descent 
 
 * Online Learning
 
+* Artificial data synthesis
+
+* Ceiling Analysis
+
 * Newton's method(牛顿法)
+
+* Maximum Likelihood Estimation
 
 注：
 
