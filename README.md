@@ -11,7 +11,10 @@
 	* Logistic Regression
 	* Sigmoid function
 	* Softmax function
-	* Regularzation
+
+* Regularzation
+	* 《DeepLearning》7
+	*  weight decay 
 	
 * Classification
 
