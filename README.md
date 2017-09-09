@@ -22,6 +22,7 @@
 	* 《机器学习》第5章 
 	* Back Propagation 
 		* [一文弄懂神经网络中的反向传播法——BackPropagation](http://www.cnblogs.com/charlotte77/p/5629865.html)
+	* Rectified Linear Unit(ReLU)
 
 * Evaluation
 	* bias
@@ -34,6 +35,7 @@
 
 
 * Supervised learning
+	* Structured Data && Unstructured Data 
 	* 《DeepLearning》5.7
 	* Support Vector Machine
 		* [Wiki](https://en.wikipedia.org/wiki/Support_vector_machine) 
@@ -41,7 +43,7 @@
 		* Decision Boundary
 		* Kernel
 
-	* desision tree
+	* Desision tree
 
 * Unsupervised learning
 	* 《DeepLearning》5.8 
