@@ -13,7 +13,7 @@
 	* Softmax function
 
 * Regularzation
-	* 《DeepLearning》7
+	* [《DeepLearning》7 ](http://www.deeplearningbook.org/contents/regularization.html)
 	*  weight decay 
 	
 * Classification
@@ -79,6 +79,8 @@
 * Newton's method(牛顿法)
 
 * Maximum Likelihood Estimation
+
+* Adversarial Training
 
 注：
 
