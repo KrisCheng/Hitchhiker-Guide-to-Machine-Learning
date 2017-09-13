@@ -68,7 +68,9 @@
 	* Batch Gradient Descent 
 	* Stochastic Gradient Descent 
 		* 《DeepLearning》5.9
+		*  Momentum
 	* Mini-batch Gradient Descent 
+	* Vanishing and exploding gradient problem
 
 * Online Learning
 
