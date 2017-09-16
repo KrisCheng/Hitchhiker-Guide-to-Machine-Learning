@@ -27,6 +27,8 @@
 	* Back Propagation 
 		* [一文弄懂神经网络中的反向传播法——BackPropagation](http://www.cnblogs.com/charlotte77/p/5629865.html)
 	* Rectified Linear Unit(ReLU)
+	* Activation Function
+		* [Understanding Activation Functions in Neural Networks](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0) 
 
 * Evaluation
 	* bias
