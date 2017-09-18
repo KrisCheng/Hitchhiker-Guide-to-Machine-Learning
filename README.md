@@ -36,6 +36,9 @@
 
 * Recurrent Neural Netowork 
 	* [《DeepLearning》10](http://www.deeplearningbook.org/contents/rnn.html) 
+	* Bidirectional Recurrent Neural Network
+	* Recursive Neural Network
+	* [LTSM](https://en.wikipedia.org/wiki/Long_short-term_memory)
 	
 * Convolutional Neural Network（卷积神经网络）
 	* [台湾大学李宏毅CNN视频](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/CNN.mp4)
@@ -80,7 +83,7 @@
 		* 《DeepLearning》5.9
 		*  Momentum
 	* Mini-batch Gradient Descent 
-	* Vanishing and exploding gradient problem
+	* Vanishing and Exploding gradient problem
 
 * Online Learning
 
