@@ -106,6 +106,8 @@
 * Practical Methodology
 	* [《DeepLearning》11](http://www.deeplearningbook.org/contents/guidelines.html)
 
+* restricted Boltzmann Machine（RBMs）
+
 注：
 
 《机器学习》代指周志华所著[《机器学习》](https://book.douban.com/subject/26708119/)一书。
