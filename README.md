@@ -106,6 +106,9 @@
 * Practical Methodology
 	* [《DeepLearning》11](http://www.deeplearningbook.org/contents/guidelines.html)
 
+* parameter && hyperparameter
+	* [Hyperparameter (machine learning) Wiki](https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning)) 
+
 * restricted Boltzmann Machine（RBMs）
 
 注：
