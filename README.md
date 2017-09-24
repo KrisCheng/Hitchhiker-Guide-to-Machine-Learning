@@ -15,10 +15,6 @@
 	* Sigmoid function
 	* Softmax function
 
-* Regularzation
-	* [《DeepLearning》7 ](http://www.deeplearningbook.org/contents/regularization.html)
-	*  weight decay 
-	
 * Classification
 	* Binary Classification  
 
@@ -37,6 +33,11 @@
 	* bias
 	* variance 
 
+* Regularzation
+	* [《DeepLearning》7](http://www.deeplearningbook.org/contents/regularization.html)
+	* L2 regularization(weight decay)
+	* Dropout regularization
+	
 * Recurrent Neural Netowork 
 	* [《DeepLearning》10](http://www.deeplearningbook.org/contents/rnn.html) 
 	* Bidirectional Recurrent Neural Network
@@ -78,7 +79,8 @@
 
 * Collaborative filtering
 
-* Mean Normalization
+* Normalize
+	* Mean Normalization
 
 * Gradient Descent
 	* Batch Gradient Descent 
@@ -88,6 +90,7 @@
 	* Mini-batch Gradient Descent 
 	* Vanishing and Exploding gradient problem
 	* Random Initialization
+	* Gradient checking
 
 * Online Learning
 
