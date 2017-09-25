@@ -48,6 +48,7 @@
 	* [台湾大学李宏毅CNN视频](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/CNN.mp4)
 	* [Deep Learning（深度学习）学习笔记整理系列之（七）](http://blog.csdn.net/zouxy09/article/details/8781543)
 	* [卷积神经网络(CNN)学习笔记1：基础入门](http://www.jeyzhang.com/cnn-learning-notes-1.html)
+	* [通俗理解卷积神经网络](http://blog.csdn.net/v_july_v/article/details/51812459)
 	* [《DeepLearning》9](http://www.deeplearningbook.org/contents/convnets.html)
 	* Pooling
 
