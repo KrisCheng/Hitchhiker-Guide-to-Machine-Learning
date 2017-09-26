@@ -35,8 +35,9 @@
 
 * Regularzation
 	* [《DeepLearning》7](http://www.deeplearningbook.org/contents/regularization.html)
+	* L1 regularization
 	* L2 regularization(weight decay)
-	* Dropout regularization
+	* Dropout regularization("Inverted dropout")
 	
 * Recurrent Neural Netowork 
 	* [《DeepLearning》10](http://www.deeplearningbook.org/contents/rnn.html) 
