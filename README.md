@@ -90,7 +90,7 @@
 		* Stochastic Gradient Descent 
 			* 《DeepLearning》5.9 
 		* Batch Gradient Descent 
-		* Mini-batch Gradient Descent 
+		* Mini-batch Gradient Descent(between the previous two) 
 		* Vanishing and Exploding gradient problem
 		* Random Initialization
 		* Gradient checking
