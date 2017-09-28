@@ -86,10 +86,10 @@
 	* Mean Normalization
 
 * Gradient Descent
-	* Batch Gradient Descent 
 	* Stochastic Gradient Descent 
 		* 《DeepLearning》5.9
 		*  Momentum
+	* Batch Gradient Descent 
 	* Mini-batch Gradient Descent 
 	* Vanishing and Exploding gradient problem
 	* Random Initialization
