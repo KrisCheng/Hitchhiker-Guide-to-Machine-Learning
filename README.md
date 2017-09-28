@@ -85,15 +85,22 @@
 * Normalize
 	* Mean Normalization
 
-* Gradient Descent
-	* Stochastic Gradient Descent 
-		* 《DeepLearning》5.9
-		*  Momentum
-	* Batch Gradient Descent 
-	* Mini-batch Gradient Descent 
-	* Vanishing and Exploding gradient problem
-	* Random Initialization
-	* Gradient checking
+* Optimization
+	* Gradient Descent
+		* Stochastic Gradient Descent 
+			* 《DeepLearning》5.9 
+		* Batch Gradient Descent 
+		* Mini-batch Gradient Descent 
+		* Vanishing and Exploding gradient problem
+		* Random Initialization
+		* Gradient checking
+		* Momentum
+		* RMSprop(root mean squared prop)
+		* Adam optimization algorithm(Adaptive moment estimation)
+		* Learning rate decay
+
+	* Exponentially weighted average
+		* Bias correction 
 
 * Online Learning
 
