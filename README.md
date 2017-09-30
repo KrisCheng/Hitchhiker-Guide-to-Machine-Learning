@@ -28,6 +28,8 @@
 		* Sigmoid 
 		* tanh
 		* ReLU(Leaky ReLU)
+	* Autoencoder
+		* [《DeepLearning》14](http://www.deeplearningbook.org/contents/autoencoders.html)
 
 * Evaluation
 	* bias
@@ -58,7 +60,7 @@
 	* Structured Data && Unstructured Data 
 	* 《DeepLearning》5.7
 	* Support Vector Machine
-		* [Wiki](https://en.wikipedia.org/wiki/Support_vector_machine) 
+		* [Support Vector Machine (Wiki)](https://en.wikipedia.org/wiki/Support_vector_machine) 
 		* 《机器学习》第6章
 		* Decision Boundary
 		* Kernel
@@ -119,8 +121,10 @@
 * Practical Methodology
 	* [《DeepLearning》11](http://www.deeplearningbook.org/contents/guidelines.html)
 
-* parameter && hyperparameter
+* Parameter && Hyperparameter tuning
 	* [Hyperparameter (machine learning) Wiki](https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning)) 
+
+* Linear factor model
 
 * restricted Boltzmann Machine（RBMs）
 
