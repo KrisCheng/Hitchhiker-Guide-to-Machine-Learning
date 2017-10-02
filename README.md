@@ -84,8 +84,9 @@
 
 * Collaborative filtering
 
-* Normalize
+* Normalization
 	* Mean Normalization
+	* Batch Normalization
 
 * Optimization
 	* Gradient Descent
