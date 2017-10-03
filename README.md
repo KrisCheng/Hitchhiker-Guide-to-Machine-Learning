@@ -40,6 +40,7 @@
 	* L1 regularization
 	* L2 regularization(weight decay)
 	* Dropout regularization("Inverted dropout")
+	* [Tricks on Machine Learning (Initialization, Regularization and Gradient Checking)](http://pengcheng.tech/2017/09/27/tricks-on-machine-learning-initialization-regularization-and-gradient-checking/)
 	
 * Recurrent Neural Netowork 
 	* [《DeepLearning》10](http://www.deeplearningbook.org/contents/rnn.html) 
@@ -101,6 +102,7 @@
 		* RMSprop(root mean squared prop)
 		* Adam optimization algorithm(Adaptive moment estimation)
 		* Learning rate decay
+		* [Gradient Descent, Momentum and Adam](http://pengcheng.tech/2017/09/28/gradient-descent-momentum-and-adam/)
 
 	* Exponentially weighted average
 		* Bias correction 
@@ -138,6 +140,7 @@
 ## Framework
 
 * TensorFlow
+	* [First exploration of TensorFlow](http://pengcheng.tech/2017/10/03/first-exploration-of-tensorflow/) 
 	* [TensorFlow学习笔记1：入门](http://www.jeyzhang.com/tensorflow-learning-notes.html)
 	* [TensorFlow学习笔记2：构建CNN模型](http://www.jeyzhang.com/tensorflow-learning-notes-2.html)
 
