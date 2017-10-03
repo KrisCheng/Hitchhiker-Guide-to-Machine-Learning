@@ -13,7 +13,7 @@
 		* Loss Function
  
 	* Sigmoid function
-	* Softmax function
+	* Softmax function 
 
 * Classification
 	* Binary Classification  
