@@ -121,6 +121,8 @@
 
 * Vectorization
 
+* Orthogonalization
+
 * Practical Methodology
 	* [《DeepLearning》11](http://www.deeplearningbook.org/contents/guidelines.html)
 
@@ -128,6 +130,8 @@
 	* [Hyperparameter (machine learning) Wiki](https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning)) 
 
 * Linear factor model
+
+* Bayes optimal error(Bayes error)
 
 * restricted Boltzmann Machine（RBMs）
 
@@ -163,3 +167,5 @@
 8. [机器学习基石 台湾大学 林轩田](https://www.coursera.org/learn/ntumlone-mathematicalfoundations/home/welcome)
 
 9. [Deep Learning Book](http://www.deeplearningbook.org/)
+
+10. [Deepearning.ai](http://deeplearning.ai/)
