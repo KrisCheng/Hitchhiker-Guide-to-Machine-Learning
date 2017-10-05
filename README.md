@@ -133,7 +133,13 @@
 
 * Bayes optimal error(Bayes error)
 
+* Error analysis
+
 * restricted Boltzmann Machine（RBMs）
+
+* Transfer learning
+
+* Multi-task learning
 
 注：
 
