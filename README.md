@@ -1,6 +1,6 @@
 # ML-Learning
 
-这个repository主要用于记录个人机器学习（包括神经网络，深度学习等）的学习笔记，所有链接个人均有学习，至少我认为是靠谱的。
+这个repository主要用于记录个人机器学习（包括神经网络，深度学习等）的学习笔记，以及整理的相关论文集（毕业需要~~），所有链接个人均有学习，至少我认为是靠谱的。
 
 ## Theory
 
@@ -154,7 +154,11 @@
 	* [TensorFlow学习笔记1：入门](http://www.jeyzhang.com/tensorflow-learning-notes.html)
 	* [TensorFlow学习笔记2：构建CNN模型](http://www.jeyzhang.com/tensorflow-learning-notes-2.html)
 
-## Userful links:
+## Academic Papers
+
+
+
+## Userful Links:
 
 1. [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome)
 
