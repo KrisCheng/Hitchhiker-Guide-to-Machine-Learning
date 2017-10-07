@@ -54,6 +54,7 @@
 	* [Deep Learning（深度学习）学习笔记整理系列之（七）](http://blog.csdn.net/zouxy09/article/details/8781543)
 	* [卷积神经网络(CNN)学习笔记1：基础入门](http://www.jeyzhang.com/cnn-learning-notes-1.html)
 	* [通俗理解卷积神经网络](http://blog.csdn.net/v_july_v/article/details/51812459)
+	* [Understanding Convolutions](https://colah.github.io/posts/2014-07-Understanding-Convolutions/)
 	* [《DeepLearning》9](http://www.deeplearningbook.org/contents/convnets.html)
 	* Pooling
 
@@ -154,9 +155,17 @@
 	* [TensorFlow学习笔记1：入门](http://www.jeyzhang.com/tensorflow-learning-notes.html)
 	* [TensorFlow学习笔记2：构建CNN模型](http://www.jeyzhang.com/tensorflow-learning-notes-2.html)
 
-## Academic Papers
+## (Semi-)Academic Papers
 
+1. [Brief History of Machine Learning](http://www.erogol.com/brief-history-machine-learning/)
 
+2. [Deep Learning in Neural Networks: An Overview](http://people.idsia.ch/~juergen/DeepLearning15May2014.pdf)
+
+3. [A Deep Learning Tutorial: From Perceptrons to Deep Networks](https://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks) 
+
+4. [Machine learning in 10 pictures](http://www.denizyuret.com/2014/02/machine-learning-in-5-pictures.html) 
+
+5. [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) 
 
 ## Userful Links:
 
@@ -179,3 +188,7 @@
 9. [Deep Learning Book](http://www.deeplearningbook.org/)
 
 10. [Deepearning.ai](http://deeplearning.ai/)
+
+11. [100 Best GitHub: Deep Learning](http://meta-guide.com/software-meta-guide/100-best-github-deep-learning) 
+
+12. [机器学习&数据挖掘笔记_16（常见面试之机器学习算法思想简单梳理）](http://www.cnblogs.com/tornadomeet/p/3395593.html) 
