@@ -167,6 +167,10 @@
 
 5. [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) 
 
+6. [NIPS 2016](https://papers.nips.cc/book/advances-in-neural-information-processing-systems-29-2016) 
+
+7. [ICML 2017](https://2017.icml.cc/Conferences/2017/Schedule?type=Poster)
+
 ## Userful Links:
 
 1. [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome)
