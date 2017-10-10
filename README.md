@@ -171,7 +171,7 @@
 
 7. [ICML 2017](https://2017.icml.cc/Conferences/2017/Schedule?type=Poster)
 
-8.[Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting](https://arxiv.org/pdf/1506.04214.pdf)
+8. [Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting](https://arxiv.org/pdf/1506.04214.pdf)
 ## Userful Links:
 
 1. [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome)
