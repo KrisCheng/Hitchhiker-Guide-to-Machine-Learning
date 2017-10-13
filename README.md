@@ -44,6 +44,7 @@
 	* [Tricks on Machine Learning (Initialization, Regularization and Gradient Checking)](http://pengcheng.tech/2017/09/27/tricks-on-machine-learning-initialization-regularization-and-gradient-checking/)
 	
 * Recurrent Neural Netowork 
+	* [零基础入门深度学习(5) - 循环神经网络](https://zybuluo.com/hanbingtao/note/541458) 
 	* [《DeepLearning》10](http://www.deeplearningbook.org/contents/rnn.html) 
 	* Bidirectional Recurrent Neural Network
 	* Recursive Neural Network
