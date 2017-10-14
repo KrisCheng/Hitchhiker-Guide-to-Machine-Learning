@@ -144,6 +144,9 @@
 
 * Multi-task learning
 
+* Cross-Entropy
+	* [交叉熵（Cross-Entropy）](http://blog.csdn.net/rtygbwwwerr/article/details/50778098) 	
+
 注：
 
 《机器学习》代指周志华所著[《机器学习》](https://book.douban.com/subject/26708119/)一书。
