@@ -7,14 +7,17 @@ __author__ = "Kris Peng"
 
 class Perceptron(object):
     def __init__(self, input_num, activator):
+        # initial the perceptron
         self.activator = activator
         self.weights = [0.0 for _ in range(input_num)]
         self.bias = 0
 
     def __str__(self):
+        # print weight and bias
         return 'weights\t:%s\nbias\t:%f\n' % (self.weights, self.bias)
 
     def predict(self, input_vec):
+        # trin the data
         return self.activator(
             reduce(lambda a, b: a + b,
                     map(lambda (x, w): x * w,
