@@ -1,6 +1,6 @@
 # ML-Learning
 
-这个repository主要用于记录个人机器学习（包括神经网络，深度学习等）的学习笔记，以及整理的相关论文集（毕业需要~~），所有链接个人均有学习，至少我认为是靠谱的。
+这个repository主要用于记录个人机器学习（包括神经网络，深度学习等）的学习笔记，以及整理的相关论文集，所有链接个人均有学习，至少我认为是靠谱的。
 
 ## Theory
 
@@ -57,7 +57,7 @@
 	* [卷积神经网络(CNN)学习笔记1：基础入门](http://www.jeyzhang.com/cnn-learning-notes-1.html)
 	* [通俗理解卷积神经网络](http://blog.csdn.net/v_july_v/article/details/51812459)
 	* [Understanding Convolutions](https://colah.github.io/posts/2014-07-Understanding-Convolutions/)
-	* [《DeepLearning》9](http://www.deeplearningbook.org/contents/convnets.html)
+	* [《DeepLearning》9](http://www.deeplearningbook.org/contents/convnets.html) (relatively difficult!)
 	* Pooling
 
 * Supervised learning
@@ -205,3 +205,5 @@
 11. [100 Best GitHub: Deep Learning](http://meta-guide.com/software-meta-guide/100-best-github-deep-learning) 
 
 12. [机器学习&数据挖掘笔记_16（常见面试之机器学习算法思想简单梳理）](http://www.cnblogs.com/tornadomeet/p/3395593.html) 
+
+13. [零基础入门深度学习](https://www.zybuluo.com/hanbingtao/note/433855) (代码实践，少看公式，intuitive!)
