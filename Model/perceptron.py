@@ -3,9 +3,9 @@
 
 __author__ = "Kris Peng"
 
-# a implement of perceptron, based on Python2.7
+# a implement of perceptron, based on Python3.6.1
 
-class perceptron(object):
+class Perceptron(object):
     def __init__(self, input_num, activator):
         # initial the perceptron
         self.activator = activator
