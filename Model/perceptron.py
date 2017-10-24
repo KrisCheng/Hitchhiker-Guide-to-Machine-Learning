@@ -1,28 +1,29 @@
-#!/usr/bin/env python
-# -*- coding: UTF-8 -*-
+#!~/anaconda/bin/python
 
 __author__ = "Kris Peng"
 
-# a implement of perceptron, based on Python3.6.1
+# a implement of perceptron, based on Python2.7
+from functools import reduce
 
 class Perceptron(object):
     def __init__(self, input_num, activator):
         # initial the perceptron
         self.activator = activator
         self.weights = [0.0 for _ in range(input_num)]
-        self.bias = 0
+        self.bias = 0.0
 
     def __str__(self):
         # print weight and bias
         return 'weights\t:%s\nbias\t:%f\n' % (self.weights, self.bias)
 
     def predict(self, input_vec):
-        # trin the data
+        # train the data
         return self.activator(
             reduce(lambda a, b: a + b,
-                    map(lambda (x, w): x * w,
-                        zip(input_vec, self.weights))
-                    , 0.0) + self.bias)
+                   map(lambda x_w: x_w[0] * x_w[1],
+                   # map(lambda (x, w): x * w,
+                       zip(input_vec, self.weights))
+                   , 0.0) + self.bias)
 
     def train(self, input_vecs, labels, iteration, rate):
         for i in range(iteration):
@@ -37,15 +38,17 @@ class Perceptron(object):
     def _update_weights(self, input_vec, output, label, rate):
         delta = label - output
         self.weights = map(
-            lambda (x, w): w + rate * delta * x,
+            lambda x_w: x_w[1] + rate * delta * x_w[0],
+            # lambda (x, w): w + rate * delta * x,
             zip(input_vec, self.weights))
+
         self.bias += rate * delta
 
 def f(x):
-    return 1 if x>0 else 0
+    return 1 if x > 0 else 0
 
 def get_training_dataset():
-    input_vecs = [[1,1], [0,0], [1,0], [0,1]]
+    input_vecs = [[1, 1], [0, 0], [1, 0], [0, 1]]
     labels = [1, 0, 0, 0]
     return input_vecs, labels
 
@@ -57,9 +60,9 @@ def train_and_perceptron():
 
 if __name__ == '__main__':
     and_preceptron = train_and_perceptron()
-    print (and_preceptron)
+    print(and_preceptron)
 
-    print('1 and 1 = %d' % and_preceptron.predict([1,1]))
-    print('0 and 0 = %d' % and_preceptron.predict([0,0]))
-    print('1 and 0 = %d' % and_preceptron.predict([1,0]))
-    print('0 and 1 = %d' % and_preceptron.predict([0,1]))
+    print('1 and 1 = %d' % and_preceptron.predict([1, 1]))
+    print('0 and 0 = %d' % and_preceptron.predict([0, 0]))
+    print('1 and 0 = %d' % and_preceptron.predict([1, 0]))
+    print('0 and 1 = %d' % and_preceptron.predict([0, 1]))
