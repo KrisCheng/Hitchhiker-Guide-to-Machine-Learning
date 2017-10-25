@@ -8,3 +8,5 @@ Model/.idea/Model.iml
 Model/.idea/modules.xml
 Model/.idea/workspace.xml
 Model/.idea/inspectionProfiles/profiles_settings.xml
+Model/perceptron.pyc
+Model/__pycache__/perceptron.cpython-36.pyc
