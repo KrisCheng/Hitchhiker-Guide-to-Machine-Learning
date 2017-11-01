@@ -19,7 +19,7 @@ def get_training_dataset():
 def train_linear_unit():
     lu = LinearUnit(1)
     input_vecs, labels = get_training_dataset()
-    lu.train(input_vecs, labels, 10, 0.01)
+    lu.train(input_vecs, labels, 100, 0.01)
     return lu
 
 if __name__ == '__main__':
