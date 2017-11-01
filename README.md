@@ -20,6 +20,7 @@
 
 * Neural Network
 	* 《机器学习》第5章 
+	* [零基础入门深度学习(3) - 神经网络和反向传播算法](https://www.zybuluo.com/hanbingtao/note/476663) (a good choice for programmer)
 	* Back Propagation 
 		* [一文弄懂神经网络中的反向传播法——BackPropagation](http://www.cnblogs.com/charlotte77/p/5629865.html)
 		* 《机器学习》5.3
