@@ -1,6 +1,6 @@
 # ML-Learning
 
-这个repository主要用于记录个人机器学习（包括神经网络，深度学习等）的学习笔记，以及整理的相关论文集，所有链接个人均有学习，至少我认为是靠谱的。
+this repository is used for recording my learning process of Machine Learning, including the codes and theories. I have read all the links attached, I think they are reliable at least.
 
 ## Theory
 
@@ -19,12 +19,12 @@
 	* Binary Classification  
 
 * Neural Network
-	* 《机器学习》第5章 
-	* [零基础入门深度学习(3) - 神经网络和反向传播算法](https://www.zybuluo.com/hanbingtao/note/476663) (a good choice for programmer)
+
+	* 《机器学习》5 
+	* [零基础入门深度学习(3) - 神经网络和反向传播算法](https://www.zybuluo.com/hanbingtao/note/476663) (a good start for programmer)
 	* Back Propagation 
 		* [一文弄懂神经网络中的反向传播法——BackPropagation](http://www.cnblogs.com/charlotte77/p/5629865.html)
 		* 《机器学习》5.3
-	* Rectified Linear Unit(ReLU)
 	* Activation Function
 		* [Understanding Activation Functions in Neural Networks](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0) 
 		* Sigmoid 
@@ -34,11 +34,13 @@
 		* [《DeepLearning》14](http://www.deeplearningbook.org/contents/autoencoders.html)
 
 * Evaluation
+
 	* bias
 	* variance 
 	* precision && recall
 
 * Regularzation
+
 	* [《DeepLearning》7](http://www.deeplearningbook.org/contents/regularization.html)
 	* L1 regularization
 	* L2 regularization(weight decay)
@@ -46,28 +48,30 @@
 	* [Tricks on Machine Learning (Initialization, Regularization and Gradient Checking)](http://pengcheng.tech/2017/09/27/tricks-on-machine-learning-initialization-regularization-and-gradient-checking/)
 	
 * Recurrent Neural Netowork 
+
 	* [零基础入门深度学习(5) - 循环神经网络](https://zybuluo.com/hanbingtao/note/541458) 
 	* [《DeepLearning》10](http://www.deeplearningbook.org/contents/rnn.html) 
 	* Bidirectional Recurrent Neural Network
 	* Recursive Neural Network
 	* [LTSM](https://en.wikipedia.org/wiki/Long_short-term_memory)
 	
-* Convolutional Neural Network（卷积神经网络）
-	* [[透析] 卷积神经网络CNN究竟是怎样一步一步工作的](http://www.jianshu.com/p/fe428f0b32c1) （推荐阅读！举例相当不错）
-	* [台湾大学李宏毅CNN视频](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/CNN.mp4)
-	* [Deep Learning（深度学习）学习笔记整理系列之（七）](http://blog.csdn.net/zouxy09/article/details/8781543)
+* Convolutional Neural Network
+ 	 
+	* [[透析] 卷积神经网络CNN究竟是怎样一步一步工作的](http://www.jianshu.com/p/fe428f0b32c1) （example is good）
+	* [台湾大学李宏毅CNN视频](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/CNN.mp4) （unfinished, but the teacher is interesting）
+	* [Deep Learning（深度学习）学习笔记整理系列之（七）](http://blog.csdn.net/zouxy09/article/details/8781543) (a basic intuition)
 	* [卷积神经网络(CNN)学习笔记1：基础入门](http://www.jeyzhang.com/cnn-learning-notes-1.html)
 	* [通俗理解卷积神经网络](http://blog.csdn.net/v_july_v/article/details/51812459)
 	* [Understanding Convolutions](https://colah.github.io/posts/2014-07-Understanding-Convolutions/)
-	* [《DeepLearning》9](http://www.deeplearningbook.org/contents/convnets.html) (relatively difficult!)
-	* Pooling
+	* [《DeepLearning》9](http://www.deeplearningbook.org/contents/convnets.html) (relatively difficult! a good choice for those cerative people)
 
 * Supervised learning
+
 	* Structured Data && Unstructured Data 
 	* 《DeepLearning》5.7
 	* Support Vector Machine
 		* [Support Vector Machine (Wiki)](https://en.wikipedia.org/wiki/Support_vector_machine) 
-		* 《机器学习》第6章
+		* 《机器学习》6
 		* Decision Boundary
 		* Kernel
 
@@ -76,12 +80,12 @@
 * Unsupervised learning
 	* 《DeepLearning》5.8 
 	* Clustering
-		* 《机器学习》第9章
+		* 《机器学习》9
 		* K-means
 			* 《DeepLearning》5.8.2
 
 	* Dimensionality Reduction
-		* 《机器学习》第10章 
+		* 《机器学习》10 
 		* PCA
 			* 《DeepLearning》2.12 	&& 5.8.1
 			*  [Principal Component Analysis Problem Formulation (Coursera)](https://www.coursera.org/learn/machine-learning/lecture/GBFTt/principal-component-analysis-problem-formulation)
@@ -91,6 +95,7 @@
 * Collaborative filtering
 
 * Normalization
+
 	* Mean Normalization
 	* Batch Normalization
 
@@ -118,7 +123,7 @@
 
 * Ceiling Analysis
 
-* Newton's method(牛顿法)
+* Newton's method (牛顿法)
 
 * Maximum Likelihood Estimation
 
@@ -149,11 +154,11 @@
 * Cross-Entropy
 	* [交叉熵（Cross-Entropy）](http://blog.csdn.net/rtygbwwwerr/article/details/50778098) 	
 
-注：
+Notes：
 
-《机器学习》代指周志华所著[《机器学习》](https://book.douban.com/subject/26708119/)一书。
+《机器学习》refer to the book [《机器学习》](https://book.douban.com/subject/26708119/)  which is written by Prof [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/).
 
-《DeepLearning》代指Ian Goodfellow and Yoshua Bengio and Aaron Courville所著[《DeepLearning》](http://www.deeplearningbook.org/)一书。
+《DeepLearning》refer to the book [《DeepLearning》](http://www.deeplearningbook.org/) which is written by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
 
 ## Framework
 
@@ -161,26 +166,6 @@
 	* [First exploration of TensorFlow](http://pengcheng.tech/2017/10/03/first-exploration-of-tensorflow/) 
 	* [TensorFlow学习笔记1：入门](http://www.jeyzhang.com/tensorflow-learning-notes.html)
 	* [TensorFlow学习笔记2：构建CNN模型](http://www.jeyzhang.com/tensorflow-learning-notes-2.html)
-
-## (Semi-)Academic Papers
-
-1. [Brief History of Machine Learning](http://www.erogol.com/brief-history-machine-learning/)
-
-2. [Deep Learning in Neural Networks: An Overview](http://people.idsia.ch/~juergen/DeepLearning15May2014.pdf)
-
-3. [A Deep Learning Tutorial: From Perceptrons to Deep Networks](https://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks) 
-
-4. [Machine learning in 10 pictures](http://www.denizyuret.com/2014/02/machine-learning-in-5-pictures.html) 
-
-5. [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) 
-
-6. [NIPS 2016](https://papers.nips.cc/book/advances-in-neural-information-processing-systems-29-2016) 
-
-7. [ICML 2017](https://2017.icml.cc/Conferences/2017/Schedule?type=Poster)
-
-8. [Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting](https://arxiv.org/pdf/1506.04214.pdf)
-
-9. [Machine Learning Applied to Weather Forecasting](http://cs229.stanford.edu/proj2016/report/HolmstromLiuVo-MachineLearningAppliedToWeatherForecasting-report.pdf)
 
 ## Userful Links:
 
@@ -208,4 +193,4 @@
 
 12. [机器学习&数据挖掘笔记_16（常见面试之机器学习算法思想简单梳理）](http://www.cnblogs.com/tornadomeet/p/3395593.html) 
 
-13. [零基础入门深度学习](https://www.zybuluo.com/hanbingtao/note/433855) (代码实践，少看公式，intuitive!)
+13. [零基础入门深度学习](https://www.zybuluo.com/hanbingtao/note/433855) 
