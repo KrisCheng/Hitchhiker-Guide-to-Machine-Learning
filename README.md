@@ -56,14 +56,16 @@ this repository is used for recording my learning process of Machine Learning, i
 	* [LTSM](https://en.wikipedia.org/wiki/Long_short-term_memory)
 	
 * Convolutional Neural Network
- 	 
-	* [[透析] 卷积神经网络CNN究竟是怎样一步一步工作的](http://www.jianshu.com/p/fe428f0b32c1) （example is good）
-	* [台湾大学李宏毅CNN视频](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/CNN.mp4) （unfinished, but the teacher is interesting）
+ 	* [Understanding CNN](http://pengcheng.tech/2017/11/04/understanding-cnn/) (writtern by myself, friendly to novices)
+ 	* [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/) (like a official tutorial, difficult for me)
+	* [[透析] 卷积神经网络CNN究竟是怎样一步一步工作的](http://www.jianshu.com/p/fe428f0b32c1) （example is good, explain why CNN）
 	* [Deep Learning（深度学习）学习笔记整理系列之（七）](http://blog.csdn.net/zouxy09/article/details/8781543) (a basic intuition)
-	* [卷积神经网络(CNN)学习笔记1：基础入门](http://www.jeyzhang.com/cnn-learning-notes-1.html)
-	* [通俗理解卷积神经网络](http://blog.csdn.net/v_july_v/article/details/51812459)
-	* [Understanding Convolutions](https://colah.github.io/posts/2014-07-Understanding-Convolutions/)
-	* [《DeepLearning》9](http://www.deeplearningbook.org/contents/convnets.html) (relatively difficult! a good choice for those cerative people)
+	* [卷积神经网络(CNN)学习笔记1：基础入门](http://www.jeyzhang.com/cnn-learning-notes-1.html) (explain each layer in LeNet)
+	* [通俗理解卷积神经网络](http://blog.csdn.net/v_july_v/article/details/51812459) （show a example for novices, including some basic parts, no threshold）
+	* [零基础入门深度学习(4) - 卷积神经网络](https://www.zybuluo.com/hanbingtao/note/485480) (show the python implementation of CNN)
+	* [《DeepLearning》9](http://www.deeplearningbook.org/contents/convnets.html) (relatively difficult! a good choice for those adventurous people)
+	* [台湾大学李宏毅CNN视频](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/CNN.mp4) （unfinished, but the teacher is interesting）
+	* [Understanding Convolutions](https://colah.github.io/posts/2014-07-Understanding-Convolutions/) (not read yet, but the author's blog is always good)
 
 * Supervised learning
 
@@ -154,11 +156,11 @@ this repository is used for recording my learning process of Machine Learning, i
 * Cross-Entropy
 	* [交叉熵（Cross-Entropy）](http://blog.csdn.net/rtygbwwwerr/article/details/50778098) 	
 
-Notes：
+*Notes:*
 
 《机器学习》refer to the book [《机器学习》](https://book.douban.com/subject/26708119/)  which is written by Prof [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/).
 
-《DeepLearning》refer to the book [《DeepLearning》](http://www.deeplearningbook.org/) which is written by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
+《DeepLearning》refer to the book [《DeepLearning》](http://www.deeplearningbook.org/) which is written by Ian Goodfellow、 Yoshua Bengio and Aaron Courville.
 
 ## Framework
 
