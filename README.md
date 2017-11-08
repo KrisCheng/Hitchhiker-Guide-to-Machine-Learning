@@ -55,18 +55,20 @@ this repository is used for recording my learning process of Machine Learning, i
 	* [Deep Learning（深度学习）学习笔记整理系列之（七）](http://blog.csdn.net/zouxy09/article/details/8781543) (a basic intuition)
 	* [卷积神经网络(CNN)学习笔记1：基础入门](http://www.jeyzhang.com/cnn-learning-notes-1.html) (explain each layer in LeNet)
 	* [通俗理解卷积神经网络](http://blog.csdn.net/v_july_v/article/details/51812459) （show a example for novices, including some basic parts, no threshold）
-	* [零基础入门深度学习(4) - 卷积神经网络](https://www.zybuluo.com/hanbingtao/note/485480) (show the python implementation of CNN)
+	* [零基础入门深度学习(4) - 卷积神经网络](https://www.zybuluo.com/hanbingtao/note/485480) (show a python implementation of CNN)
 	* [《DeepLearning》9](http://www.deeplearningbook.org/contents/convnets.html) (relatively difficult! a good choice for those adventurous people)
 	* [台湾大学李宏毅CNN视频](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/CNN.mp4) （unfinished, but the teacher is interesting）
 	* [Understanding Convolutions](https://colah.github.io/posts/2014-07-Understanding-Convolutions/) (not read yet, but the author's blog is always good)
 
 * Recurrent Neural Netowork 
 
-	* [零基础入门深度学习(5) - 循环神经网络](https://zybuluo.com/hanbingtao/note/541458) 
-	* [《DeepLearning》10](http://www.deeplearningbook.org/contents/rnn.html) 
-	* Bidirectional Recurrent Neural Network
+	* [Recurrent Neural Networks Tutorial](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) (a good tutorial, including theory and experiment, a little bit long, not finished yet)
+	* [循环神经网络(RNN, Recurrent Neural Networks)介绍](http://blog.csdn.net/heyongluoyao8/article/details/48636251) (almost a Chinese version of the tutorial above)
+	* [零基础入门深度学习(5) - 循环神经网络](https://zybuluo.com/hanbingtao/note/541458) (a chinese version, have the python implement, friendly to programmers)
+	* [《DeepLearning》10](http://www.deeplearningbook.org/contents/rnn.html) (a good choice for those adventurous people)
 
 * LSTM
+	* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) 	
 
 * Supervised learning
 
@@ -81,6 +83,7 @@ this repository is used for recording my learning process of Machine Learning, i
 	* Desision tree
 
 * Unsupervised learning
+
 	* 《DeepLearning》5.8 
 	* Clustering
 		* 《机器学习》9
@@ -103,6 +106,7 @@ this repository is used for recording my learning process of Machine Learning, i
 	* Batch Normalization
 
 * Optimization
+
 	* Gradient Descent
 		* Stochastic Gradient Descent 
 			* 《DeepLearning》5.9 
