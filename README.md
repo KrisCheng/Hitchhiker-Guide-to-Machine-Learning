@@ -62,13 +62,14 @@ this repository is used for recording my learning process of Machine Learning, i
 
 * Recurrent Neural Netowork 
 
-	* [Recurrent Neural Networks Tutorial](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) (a good tutorial, including theory and experiment, a little bit long, not finished yet)
+	* [Understanding RNN](http://pengcheng.tech/2017/11/14/understanding-rnn/) (my understanding of LSTM)
+	* [ML Lecture 25: Recurrent Neural Network (Part I) (Video)](https://www.youtube.com/watch?v=xCGidAeyS4M&t=3s) 
+	* [ML Lecture 26: Recurrent Neural Network (Part I) (Video)](https://www.youtube.com/watch?v=rTqmWlnwz_0) (very good explanation, you can begin from this to gain some intuitions, may need a ladder)
+	* [Recurrent Neural Networks Tutorial](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) (a good tutorial, including theory and experiment, a little bit long, I am learning)
 	* [循环神经网络(RNN, Recurrent Neural Networks)介绍](http://blog.csdn.net/heyongluoyao8/article/details/48636251) (almost a Chinese version of the tutorial above)
 	* [零基础入门深度学习(5) - 循环神经网络](https://zybuluo.com/hanbingtao/note/541458) (a chinese version, have the python implement, friendly to programmers)
-	* [《DeepLearning》10](http://www.deeplearningbook.org/contents/rnn.html) (a good choice for those adventurous people)
-
-* LSTM
-	* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) 	
+	* [《DeepLearning》10](http://www.deeplearningbook.org/contents/rnn.html) (not read yet, a good choice for those adventurous people)
+	* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) (very clear explaination) 	
 
 * Supervised learning
 
