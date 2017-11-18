@@ -168,7 +168,7 @@ this repository is used for recording my learning process of Machine Learning, i
 
 《DeepLearning》refer to the book [《DeepLearning》](http://www.deeplearningbook.org/) which is written by Ian Goodfellow、 Yoshua Bengio and Aaron Courville.
 
-## Framework
+## Practice
 
 * TensorFlow
 	* [First exploration of TensorFlow](http://pengcheng.tech/2017/10/03/first-exploration-of-tensorflow/) 
