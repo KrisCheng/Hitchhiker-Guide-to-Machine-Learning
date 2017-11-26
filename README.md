@@ -70,7 +70,6 @@ this repository is used for recording my learning process of Machine Learning, i
 	* [零基础入门深度学习(5) - 循环神经网络](https://zybuluo.com/hanbingtao/note/541458) (a chinese version, have the python implement, friendly to programmers)
 	* [《DeepLearning》10](http://www.deeplearningbook.org/contents/rnn.html) (not read yet, a good choice for those adventurous people)
 	* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) (very clear explaination) 	
-
 * Supervised learning
 
 	* Structured Data && Unstructured Data 
@@ -142,9 +141,11 @@ this repository is used for recording my learning process of Machine Learning, i
 * Orthogonalization
 
 * Practical Methodology
+
 	* [《DeepLearning》11](http://www.deeplearningbook.org/contents/guidelines.html)
 
 * Parameter && Hyperparameter tuning
+
 	* [Hyperparameter (machine learning) Wiki](https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning)) 
 
 * Linear factor model
@@ -160,6 +161,7 @@ this repository is used for recording my learning process of Machine Learning, i
 * Multi-task learning
 
 * Cross-Entropy
+
 	* [交叉熵（Cross-Entropy）](http://blog.csdn.net/rtygbwwwerr/article/details/50778098) 	
 
 *Notes:*
@@ -171,34 +173,33 @@ this repository is used for recording my learning process of Machine Learning, i
 ## Practice
 
 * TensorFlow
-	* [First exploration of TensorFlow](http://pengcheng.tech/2017/10/03/first-exploration-of-tensorflow/)  (my post, cover the basic usage)
+
+	* [First exploration of TensorFlow](http://pengcheng.tech/2017/10/03/first-exploration-of-tensorflow/) (my post, cover the basic usage)
 	* [TensorFlow学习笔记1：入门](http://www.jeyzhang.com/tensorflow-learning-notes.html)
 	* [TensorFlow学习笔记2：构建CNN模型](http://www.jeyzhang.com/tensorflow-learning-notes-2.html)
 
 ## Userful Links:
 
-1. [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome)
+1. [Machine Learning by Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning/home/welcome) (a very good choice for beginner, Andrew Ng can always express the idea clearly)
 
-2. [机器学习（周志华）](https://book.douban.com/subject/26708119/)
+2. [机器学习（周志华）](https://book.douban.com/subject/26708119/) (a good guide book, which is written by Chinese, so you can read more fluently than those translated book, I view this as a good map)
 
-3. [TensorFlow实战](https://book.douban.com/subject/26974266/)
+3. [TensorFlow实战](https://book.douban.com/subject/26974266/) (a guide of how to get start with TensorFlow, I have not finished yet)
 
-4. [MNIST数据集](http://yann.lecun.com/exdb/mnist/)
+4. [MNIST数据集](http://yann.lecun.com/exdb/mnist/) (one of the most classic dataset)
 
-5. [TensorFlow 官方文档中文版](http://wiki.jikexueyuan.com/project/tensorflow-zh/)
+5. [TensorFlow 官方文档中文版](http://wiki.jikexueyuan.com/project/tensorflow-zh/) (if you want get deep of TensorFlow)
 
-6. [Deep Learning（深度学习）学习笔记整理系列](http://blog.csdn.net/zouxy09/article/details/8775360)
+6. [Deep Learning（深度学习）学习笔记整理系列](http://blog.csdn.net/zouxy09/article/details/8775360) (the author is Chinese, so the posts is kindly, but most of them are theory, I have not deep understand most of them yet)
 
-7. [台湾大学 李宏毅教案](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html) 
+7. [台湾大学 李宏毅教案](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html) (highly recommended! the best speaker via mandarine I think)
 
-8. [机器学习基石 台湾大学 林轩田](https://www.coursera.org/learn/ntumlone-mathematicalfoundations/home/welcome)
+8. [Deep Learning Book](http://www.deeplearningbook.org/) (I have tried to get over this, but most of the ideas I cannot understand right now, maybe I'll read it later)
 
-9. [Deep Learning Book](http://www.deeplearningbook.org/)
+9. [Deepearning.ai](http://deeplearning.ai/) (the deeplearning project by Andrew Ng, the lectures are free, but the assignment is charged)
 
-10. [Deepearning.ai](http://deeplearning.ai/)
+10. [100 Best GitHub: Deep Learning](http://meta-guide.com/software-meta-guide/100-best-github-deep-learning) (I have not read it carefully, but it may be a good index for practice)
 
-11. [100 Best GitHub: Deep Learning](http://meta-guide.com/software-meta-guide/100-best-github-deep-learning) 
+11. [机器学习&数据挖掘笔记_16（常见面试之机器学习算法思想简单梳理）](http://www.cnblogs.com/tornadomeet/p/3395593.html) (I have not read them, remain to when I get prepare for my interview)
 
-12. [机器学习&数据挖掘笔记_16（常见面试之机器学习算法思想简单梳理）](http://www.cnblogs.com/tornadomeet/p/3395593.html) 
-
-13. [零基础入门深度学习](https://www.zybuluo.com/hanbingtao/note/433855) 
+12. [零基础入门深度学习](https://www.zybuluo.com/hanbingtao/note/433855) (a good tutorial for programmers, all knowledge have implementation)
