@@ -1,6 +1,7 @@
-# ML-Learning
+# The Hitchhiker's Guide to Machine Learning
 
-this repository is used for recording my learning process of Machine Learning, mainly including the theory part and practice part, I hope it can grow to a *《Hitchhiker's Guide to Machine Learning》*, enjoy it! 
+
+this repository is used for recording my learning process of Machine Learning, mainly including the theory part and practice part, enjoy it! 
 
 *Note:* I have read all the links attached, I think they are reliable at least, Please star me. ✧(≖ ◡ ≖)
 
