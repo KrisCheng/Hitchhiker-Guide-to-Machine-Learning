@@ -1,13 +1,13 @@
 # The Hitchhiker's Guide to Machine Learning
 
+this repository is used for recording my learning travel of Machine Learning, mainly including the theory part and practice part, enjoy it! 
 
-this repository is used for recording my learning process of Machine Learning, mainly including the theory part and practice part, enjoy it! 
-
-*Note:* I have read all the links attached, I think they are reliable at least, Please star me. ✧(≖ ◡ ≖)
+*Note:* I have read all the links attached, I think all of they are reliable at least, Please star me. ✧(≖ ◡ ≖)
 
 ## THEORY
 
 * Regression
+
 	* Linear Regression
 		* 《DeepLearning》5.1.4
  
@@ -18,23 +18,22 @@ this repository is used for recording my learning process of Machine Learning, m
 	* Sigmoid function
 	* Softmax function 
 
-* Classification
-	* Binary Classification  
+* Back Propagation 
 
-* Neural Network
-
-	* 《机器学习》5 
+	* 《机器学习》5.3
+	* [一文弄懂神经网络中的反向传播法——BackPropagation](http://www.cnblogs.com/charlotte77/p/5629865.html)
 	* [零基础入门深度学习(3) - 神经网络和反向传播算法](https://www.zybuluo.com/hanbingtao/note/476663) (a good start for programmer)
-	* Back Propagation 
-		* [一文弄懂神经网络中的反向传播法——BackPropagation](http://www.cnblogs.com/charlotte77/p/5629865.html)
-		* 《机器学习》5.3
-	* Activation Function
-		* [Understanding Activation Functions in Neural Networks](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0) 
+
+* Activation Function
+
+	* [Understanding Activation Functions in Neural Networks](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0) 
 		* Sigmoid 
 		* tanh
-		* ReLU(Leaky ReLU)
-	* Autoencoder
-		* [《DeepLearning》14](http://www.deeplearningbook.org/contents/autoencoders.html)
+		* ReLU (Leaky ReLU)
+
+* Autoencoder
+
+	* [《DeepLearning》14](http://www.deeplearningbook.org/contents/autoencoders.html)
 
 * Evaluation
 
@@ -73,17 +72,14 @@ this repository is used for recording my learning process of Machine Learning, m
 	* [零基础入门深度学习(5) - 循环神经网络](https://zybuluo.com/hanbingtao/note/541458) (a chinese version, have the python implement, friendly to programmers)
 	* [《DeepLearning》10](http://www.deeplearningbook.org/contents/rnn.html) (not read yet, a good choice for those adventurous people)
 	* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) (very clear explaination) 	
-* Supervised learning
 
-	* Structured Data && Unstructured Data 
-	* 《DeepLearning》5.7
-	* Support Vector Machine
+* Support Vector Machine
 	
-		* 《机器学习》6
-		* Decision Boundary
-		* Kernel
+	* 《机器学习》6
+	* Decision Boundary
+	* Kernel
 
-	* Desision tree
+* Desision tree
 
 * Unsupervised learning
 
@@ -93,11 +89,12 @@ this repository is used for recording my learning process of Machine Learning, m
 		* K-means
 			* 《DeepLearning》5.8.2
 
-	* Dimensionality Reduction
-		* 《机器学习》10 
-		* PCA
-			* 《DeepLearning》2.12 	&& 5.8.1
-			*  [Principal Component Analysis Problem Formulation (Coursera)](https://www.coursera.org/learn/machine-learning/lecture/GBFTt/principal-component-analysis-problem-formulation)
+* Dimensionality Reduction
+
+	* 《机器学习》10 
+	* PCA
+		* 《DeepLearning》2.12 	&& 5.8.1
+		*  [Principal Component Analysis Problem Formulation (Coursera)](https://www.coursera.org/learn/machine-learning/lecture/GBFTt/principal-component-analysis-problem-formulation)
 			
 * Anomaly detection
 
@@ -177,11 +174,11 @@ this repository is used for recording my learning process of Machine Learning, m
 
 * TensorFlow
 
-	* [First exploration of TensorFlow](http://pengcheng.tech/2017/10/03/first-exploration-of-tensorflow/) (my post, cover the basic usage)
+	* [First exploration of TensorFlow](http://pengcheng.tech/2017/10/03/first-exploration-of-tensorflow/) (my post, covers the basic usage)
 	* [TensorFlow学习笔记1：入门](http://www.jeyzhang.com/tensorflow-learning-notes.html)
 	* [TensorFlow学习笔记2：构建CNN模型](http://www.jeyzhang.com/tensorflow-learning-notes-2.html)
 
-## Userful Links:
+## USERFUL LINKS:
 
 1. [Machine Learning by Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning/home/welcome) (a very good choice for beginner, Andrew Ng can always express the idea clearly)
 
