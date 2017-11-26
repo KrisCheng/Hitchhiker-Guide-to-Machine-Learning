@@ -180,7 +180,7 @@ this repository is used for recording my learning travel of Machine Learning, ma
 
 ## USERFUL LINKS:
 
-*Notes:* ranked by my personal experience
+*Notes:* ranked by my personal experience (in order of importance)
 
 * [Machine Learning by Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning/home/welcome) (a very good choice for beginner, Andrew Ng can always express the idea clearly)
 
