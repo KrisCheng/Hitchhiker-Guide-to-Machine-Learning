@@ -2,9 +2,9 @@
 
 this repository is used for recording my learning process of Machine Learning, mainly including the theory part and practice part, I hope it can grow to a *《Hitchhiker's Guide to Machine Learning》*, enjoy it! 
 
-*Note:* I have read all the links attached, I think they are reliable at least, Please left a star. ✧(≖ ◡ ≖)
+*Note:* I have read all the links attached, I think they are reliable at least, Please star me. ✧(≖ ◡ ≖)
 
-## Theory
+## THEORY
 
 * Regression
 	* Linear Regression
@@ -172,7 +172,7 @@ this repository is used for recording my learning process of Machine Learning, m
 
 《DeepLearning》refer to the book [《DeepLearning》](http://www.deeplearningbook.org/) which is written by Ian Goodfellow、 Yoshua Bengio and Aaron Courville.
 
-## Practice
+## PRACTICE
 
 * TensorFlow
 
