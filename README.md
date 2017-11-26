@@ -1,6 +1,8 @@
 # ML-Learning
 
-this repository is used for recording my learning process of Machine Learning, including the codes and theories. I have read all the links attached, I think they are reliable at least.
+this repository is used for recording my learning process of Machine Learning, mainly including the theory part and practice part, I hope it can grow to a *《Hitchhiker's Guide to Machine Learning》*, enjoy it! 
+
+*Note:* I have read all the links attached, I think they are reliable at least, Please left a star. ✧(≖ ◡ ≖)
 
 ## Theory
 
@@ -200,6 +202,6 @@ this repository is used for recording my learning process of Machine Learning, i
 
 10. [100 Best GitHub: Deep Learning](http://meta-guide.com/software-meta-guide/100-best-github-deep-learning) (I have not read it carefully, but it may be a good index for practice)
 
-11. [机器学习&数据挖掘笔记_16（常见面试之机器学习算法思想简单梳理）](http://www.cnblogs.com/tornadomeet/p/3395593.html) (I have not read them, remain to when I get prepare for my interview)
+11. [机器学习&数据挖掘笔记_16（常见面试之机器学习算法思想简单梳理）](http://www.cnblogs.com/tornadomeet/p/3395593.html) (I have not read them, remain to when I get prepared for my interview)
 
 12. [零基础入门深度学习](https://www.zybuluo.com/hanbingtao/note/433855) (a good tutorial for programmers, all knowledge have implementation)
