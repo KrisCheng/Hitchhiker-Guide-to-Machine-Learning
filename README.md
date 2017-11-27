@@ -194,6 +194,10 @@ this repository is used for recording my learning travel of Machine Learning, ma
 
 * [TensorFlow 官方文档中文版](http://wiki.jikexueyuan.com/project/tensorflow-zh/) (if you want go deep into TensorFlow)
 
+* [A Tutorial on Deep Learning Part 1](http://cs.stanford.edu/~quocle/tutorial1.pdf)
+
+  [A Tutorial on Deep Learning Part 2](http://cs.stanford.edu/~quocle/tutorial2.pdf) (a tutorial, cover classifier, bp, cnn, rnn, a choice to beginner, relatively easy to read)
+
 * [Deep Learning（深度学习）学习笔记整理系列](http://blog.csdn.net/zouxy09/article/details/8775360) (the author is Chinese, so the posts is kindly, but most of them are theory, I have not deep understand most of them yet)
 
 * [Deep Learning Book](http://www.deeplearningbook.org/) (I have tried to get over this, but most of the ideas I cannot understand right now, maybe I'll read it later)
