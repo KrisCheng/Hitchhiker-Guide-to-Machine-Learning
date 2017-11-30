@@ -108,6 +108,7 @@ this repository is used for recording my learning travel of Machine Learning, ma
 * Optimization
 
 	* Gradient Descent
+
 		* Stochastic Gradient Descent 
 			* 《DeepLearning》5.9 
 		* Batch Gradient Descent 
@@ -122,6 +123,7 @@ this repository is used for recording my learning travel of Machine Learning, ma
 		* [Gradient Descent, Momentum and Adam](http://pengcheng.tech/2017/09/28/gradient-descent-momentum-and-adam/)
 
 	* Exponentially weighted average
+
 		* Bias correction 
 
 * Online Learning
@@ -177,6 +179,11 @@ this repository is used for recording my learning travel of Machine Learning, ma
 	* [First exploration of TensorFlow](http://pengcheng.tech/2017/10/03/first-exploration-of-tensorflow/) (my post, covers the basic usage)
 	* [TensorFlow学习笔记1：入门](http://www.jeyzhang.com/tensorflow-learning-notes.html)
 	* [TensorFlow学习笔记2：构建CNN模型](http://www.jeyzhang.com/tensorflow-learning-notes-2.html)
+
+* LSTM
+
+	* [LSTM Networks - The Math of Intelligence](https://www.youtube.com/watch?v=9zhrxE5PQgY) [code](https://github.com/kevin-bruhwiler/Simple-Vanilla-LSTM/blob/master/VanillaLSTM.py) (the basic version of LSTM without any frameworks, just numpy, actually I didnot fully understand)
+
 
 ## USERFUL LINKS:
 

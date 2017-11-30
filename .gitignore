@@ -5,3 +5,4 @@ t10k-labels-idx1-ubyte
 *.iml
 *.xml
 *.pyc
+.vscode
