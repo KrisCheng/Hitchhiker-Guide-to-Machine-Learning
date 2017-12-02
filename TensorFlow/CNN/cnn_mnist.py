@@ -7,6 +7,7 @@ import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
 import time
 start = time.time()
+
 # 设置weight和bias函数
 def weight_varible(shape):
     initial = tf.truncated_normal(shape, stddev = 0.1)
@@ -75,7 +76,7 @@ accuracy = tf.reduce_mean(tf.cast(correct_prediction, tf.float32))
 
 sess.run(tf.initialize_all_variables())
 
-for i in range(10000):
+for i in range(1000):
     batch = mnist.train.next_batch(50)
 
     if i % 100 == 0:
