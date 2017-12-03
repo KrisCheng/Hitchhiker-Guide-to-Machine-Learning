@@ -9,11 +9,12 @@ this repository is used for recording my learning travel of Machine Learning, ma
 * Regression
 
 	* Linear Regression
+
 		* 《DeepLearning》5.1.4
  
 	* Logistic Regression
+
 		* Cost Function
-		* Loss Function
  
 	* Sigmoid function
 	* Softmax function 
@@ -87,6 +88,7 @@ this repository is used for recording my learning travel of Machine Learning, ma
 	* Clustering
 		* 《机器学习》9
 		* K-means
+
 			* 《DeepLearning》5.8.2
 
 * Dimensionality Reduction
@@ -185,14 +187,13 @@ this repository is used for recording my learning travel of Machine Learning, ma
 	* [LSTM Networks - The Math of Intelligence](https://www.youtube.com/watch?v=9zhrxE5PQgY) [code](https://github.com/kevin-bruhwiler/Simple-Vanilla-LSTM/blob/master/VanillaLSTM.py) (the basic version of LSTM without any frameworks, just numpy, actually I didnot fully understand)
 
 
-
 ## USERFUL LINKS:
 
-*Notes:* ranked by my personal experience (in order of importance)
+*Notes:* ranked by my personal experience (in order of importance).
 
 * [Machine Learning by Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning/home/welcome) (a very good choice for beginner, Andrew Ng can always express the idea clearly)
 
-* [机器学习（周志华）](https://book.douban.com/subject/26708119/) (a good guide book, which is written by Chinese, so you can read more fluently than those translated book, I view this as a good map)
+* [机器学习（周志华）](https://book.douban.com/subject/26708119/) (a good guide book, which is written by Chinese, so you can read more fluently than those translated book, I think this is a good map)
 
 * [零基础入门深度学习](https://www.zybuluo.com/hanbingtao/note/433855) (a good tutorial for programmers, all knowledge have implementation)
 

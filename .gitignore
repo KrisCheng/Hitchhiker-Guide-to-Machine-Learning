@@ -6,3 +6,4 @@ t10k-labels-idx1-ubyte
 *.xml
 *.pyc
 .vscode
+*.csv
