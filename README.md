@@ -168,6 +168,8 @@ this repository is used for recording my learning travel of Machine Learning, ma
 
 	* [交叉熵（Cross-Entropy）](http://blog.csdn.net/rtygbwwwerr/article/details/50778098) 	
 
+
+
 *Notes:*
 
 《机器学习》refers to the book [《机器学习》](https://book.douban.com/subject/26708119/)  which is written by Prof [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/).
