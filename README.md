@@ -188,6 +188,8 @@ this repository is used for recording my learning travel of Machine Learning, ma
 
 	* [LSTM Networks - The Math of Intelligence](https://www.youtube.com/watch?v=9zhrxE5PQgY) [code](https://github.com/kevin-bruhwiler/Simple-Vanilla-LSTM/blob/master/VanillaLSTM.py) (the basic version of LSTM without any frameworks, just numpy, actually I didnot fully understand)
 
+	* [Time Series Forecasting with the Long Short-Term Memory Network in Python](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/) (a time series forecasting example with LSTM, based on keras)
+
 
 ## USERFUL LINKS:
 
