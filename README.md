@@ -60,7 +60,7 @@ this repository is used for recording my learning travel of Machine Learning, ma
 	* [通俗理解卷积神经网络](http://blog.csdn.net/v_july_v/article/details/51812459) （show a example for novices, including some basic parts, no threshold）
 	* [零基础入门深度学习(4) - 卷积神经网络](https://www.zybuluo.com/hanbingtao/note/485480) (show a python implementation of CNN)
 	* [《DeepLearning》9](http://www.deeplearningbook.org/contents/convnets.html) (relatively difficult! a good choice for those adventurous people)
-	* [台湾大学李宏毅CNN视频](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/CNN.mp4) （unfinished, but the teacher is interesting）
+	* [ML Lecture 10: Convolutional Neural Network by 李宏毅](https://www.youtube.com/watch?v=FrKWiRv254g) （the teacher is interesting, explain what CNN learned）
 	* [Understanding Convolutions](https://colah.github.io/posts/2014-07-Understanding-Convolutions/) (not read yet, but the author's blog is always good)
 
 * Recurrent Neural Netowork 
