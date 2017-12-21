@@ -91,7 +91,8 @@ series = read_csv('shampoo-sales.csv', header = 0, parse_dates = [0], index_col 
 # transform data to be stationary
 raw_values = series.values
 diff_values = difference(raw_values, 1)
-
+print(raw_values)
+print(len(raw_values))
 # transform data to be supervised learning
 supervised = timeseries_to_supervised(diff_values, 1)
 supervised_values = supervised.values
