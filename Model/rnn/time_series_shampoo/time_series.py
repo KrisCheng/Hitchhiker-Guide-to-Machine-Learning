@@ -82,6 +82,7 @@ def fit_lstm(train, batch_size, nb_epoch, neurons):
 # make a one-step forecast
 def forecast_lstm(model, batch_size, X):
     X = X.reshape(1, 1, len(X))
+    # the prediction
     yhat = model.predict(X, batch_size = batch_size)
     return yhat[0,0]
 
@@ -90,9 +91,9 @@ series = read_csv('shampoo-sales.csv', header = 0, parse_dates = [0], index_col 
 
 # transform data to be stationary
 raw_values = series.values
-diff_values = difference(raw_values, 1)
 print(raw_values)
-print(len(raw_values))
+diff_values = difference(raw_values, 1)
+
 # transform data to be supervised learning
 supervised = timeseries_to_supervised(diff_values, 1)
 supervised_values = supervised.values
@@ -104,7 +105,7 @@ train, test = supervised_values[0:-12], supervised_values[-12:]
 scaler, train_scaled, test_scaled = scale(train, test)
 
 # fit the model
-lstm_model = fit_lstm(train_scaled, 1, 30, 4)
+lstm_model = fit_lstm(train_scaled, 1, 3, 4)
 
 # forecast the entire training dataset to build up state for forecasting
 train_reshaped = train_scaled[:, 0].reshape(len(train_scaled), 1, 1)
@@ -116,6 +117,7 @@ for i in range(len(test_scaled)):
     # make one-step forecast
     X, y = test_scaled[i, 0:-1], test_scaled[i, -1]
     yhat = forecast_lstm(lstm_model, 1, X)
+
     # invert scaling
     yhat = invert_scale(scaler, X, yhat)
     # invert differencing
@@ -132,61 +134,3 @@ print('Test RMSE: %.3f' % rmse)
 pyplot.plot(raw_values[-12:])
 pyplot.plot(predictions)
 pyplot.show()
-
-# print the basic information
-# print(series.head())
-# series.plot()
-# pyplot.show()
-
-# transform scale
-# X = series.values
-# X = X.reshape(len(X), 1)
-# scaler = MinMaxScaler(feature_range = (-1, 1))
-# scaler = scaler.fit(X)
-# scaled_X = scaler.transform(X)
-# scaled_series = Series(scaled_X[:, 0])
-# print(scaled_series.head())
-
-# # invert transform
-# inverted_X = scaler.inverse_transform(scaled_X)
-# inverted_series = Series(inverted_X[:, 0])
-# print(inverted_series.head())
-
-# transform to be stationary
-# differenced = difference(series, 1)
-# print(differenced.head())
-
-# invert transform
-# inverted = list()
-# for i in range(len(differenced)):
-#     value = inverse_difference(series, differenced[i], len(series) - 1)
-#     inverted.append(value)
-# inverted = Series(inverted)
-# print(inverted.head())
-
-# split the dateset
-# X = series.values
-
-# transform to supervised learning 
-# supervised = timeseries_to_supervised(X, 1)
-# print(supervised)
-
-
-# train, test = X[0:-12], X[-12:]
-# # walk-forward validation
-# history = [x for x in train]
-# predictions = list()
-# for i in range(len(test)):
-#     # make prediction
-#     predictions.append(history[-1])
-#     # observation
-#     history.append(test[i])
-
-# report performance
-# rmse = sqrt(mean_squared_error(test, predictions))
-# print('RMSE: %.3F' % rmse)
-
-# plot observed vs predicted
-# pyplot.plot(test)
-# pyplot.plot(predictions)
-# pyplot.show()

@@ -28,6 +28,8 @@ this repository is used for recording my learning travel of Machine Learning, ma
 * Activation Function
 
 	* [Understanding Activation Functions in Neural Networks](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0) 
+
+	
 		* Sigmoid 
 		* tanh
 		* ReLU (Leaky ReLU)
