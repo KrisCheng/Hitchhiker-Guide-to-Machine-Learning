@@ -4,7 +4,7 @@ this repository is used for recording my learning travel of Machine Learning, ma
 
 *Note:* I have read all the links attached, I think all of they are reliable at least, Please star me. ✧(≖ ◡ ≖)
 
-## THEORY
+## THEORY PART
 
 * Regression
 
@@ -96,6 +96,7 @@ this repository is used for recording my learning travel of Machine Learning, ma
 * Dimensionality Reduction
 
 	* 《机器学习》10 
+
 	* PCA
 		* 《DeepLearning》2.12 	&& 5.8.1
 		*  [Principal Component Analysis Problem Formulation (Coursera)](https://www.coursera.org/learn/machine-learning/lecture/GBFTt/principal-component-analysis-problem-formulation)
@@ -129,6 +130,17 @@ this repository is used for recording my learning travel of Machine Learning, ma
 	* Exponentially weighted average
 
 		* Bias correction 
+
+* Special Network Structure
+
+	* [Deep convolutional models: case studies](https://www.coursera.org/learn/convolutional-neural-networks) (tutorial by Andrew Ng)
+
+	* ResNet (Residual Network)
+		* [Deep Residual Learning for Image Recognition](https://www.youtube.com/watch?v=C6tLw-rPQ2o) (HE's oral on CVPR 2016, Best Paper)
+
+	* DenseNet
+		* [Densely Connected Convolutional Networks](https://www.youtube.com/watch?v=-W6y8xnd--U) (Gao Huang's oral on CVPR 2017, Best Paper)
+		* [DenseNet算法详解](http://blog.csdn.net/u014380165/article/details/75142664) (a good intruduction post)
 
 * Online Learning
 
@@ -171,14 +183,13 @@ this repository is used for recording my learning travel of Machine Learning, ma
 	* [交叉熵（Cross-Entropy）](http://blog.csdn.net/rtygbwwwerr/article/details/50778098) 	
 
 
-
 *Notes:*
 
 《机器学习》refers to the book [《机器学习》](https://book.douban.com/subject/26708119/)  which is written by Prof [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/).
 
 《DeepLearning》refers to the book [《DeepLearning》](http://www.deeplearningbook.org/) which is written by Ian Goodfellow、 Yoshua Bengio and Aaron Courville.
 
-## PRACTICE
+## PRACTICE (CODING) PART
 
 * TensorFlow
 
