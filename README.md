@@ -206,10 +206,14 @@ this repository is used for recording my learning travel of Machine Learning, ma
 
 ## USERFUL LINKS:
 
-*Notes:* ranked by my personal experience (in order of importance).
+*Notes:* ranked by importance from my personal experience.
 
 * [Machine Learning by Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning/home/welcome) (a very good choice for beginner, Andrew Ng can always express the idea clearly)
 
+* [Machine Learning Mastery](https://machinelearningmastery.com/) (those blogs are great(most by case-driven, and many wonderful insights)! but the books are not free)
+
+* [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) (a very good index, step by step, including many useful links)
+ 
 * [机器学习（周志华）](https://book.douban.com/subject/26708119/) (a good guide book, which is written by Chinese, so you can read more fluently than those translated book, I think this is a good map)
 
 * [零基础入门深度学习](https://www.zybuluo.com/hanbingtao/note/433855) (a good tutorial for programmers, all knowledge have implementation)
