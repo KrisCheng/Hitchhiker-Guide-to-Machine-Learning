@@ -74,7 +74,8 @@ this repository is used for recording my learning travel of Machine Learning, ma
 	* [循环神经网络(RNN, Recurrent Neural Networks)介绍](http://blog.csdn.net/heyongluoyao8/article/details/48636251) (almost a Chinese version of the tutorial above)
 	* [零基础入门深度学习(5) - 循环神经网络](https://zybuluo.com/hanbingtao/note/541458) (a chinese version, have the python implement, friendly to programmers)
 	* [《DeepLearning》10](http://www.deeplearningbook.org/contents/rnn.html) (not read yet, a good choice for those adventurous people)
-	* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) (very clear explaination) 	
+	* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) (very clear explaination) 
+	* [Gated RNN and Sequence Generation](https://www.youtube.com/watch?v=T8mGfIy9dWM&feature=youtu.be) (a novel perspective)
 
 * Support Vector Machine
 	
