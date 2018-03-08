@@ -75,7 +75,7 @@ this repository is used for recording my learning travel of Machine Learning, ma
 	* [零基础入门深度学习(5) - 循环神经网络](https://zybuluo.com/hanbingtao/note/541458) (a chinese version, have the python implement, friendly to programmers)
 	* [《DeepLearning》10](http://www.deeplearningbook.org/contents/rnn.html) (not read yet, a good choice for those adventurous people)
 	* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) (very clear explaination) 
-	* [Gated RNN and Sequence Generation](https://www.youtube.com/watch?v=T8mGfIy9dWM&feature=youtu.be) (a novel perspective)
+	* [Gated RNN and Sequence Generation](https://www.youtube.com/watch?v=T8mGfIy9dWM) (a 2 hours video, including the lstm part, how to generate sequence and applications)
 
 * Support Vector Machine
 	
