@@ -2,7 +2,7 @@
 
 this repository is used for recording my learning travel of Machine Learning, mainly including the theory part and practice part, enjoy it! 
 
-*Note:* I have read all the links attached, I think all of they are reliable at least, Please star me. ✧(≖ ◡ ≖)
+*Note:* I do have read all the links attached, I think all of they are reliable materials, Please star me. ✧(≖ ◡ ≖)
 
 ## THEORY PART
 
