@@ -132,7 +132,7 @@ this repository is used for recording my learning travel of Machine Learning, ma
 
 		* Bias correction 
 
-* Special Network Structure
+* Special Network Structures
 
 	* [Deep convolutional models: case studies](https://www.coursera.org/learn/convolutional-neural-networks) (tutorial by Andrew Ng)
 
@@ -142,6 +142,12 @@ this repository is used for recording my learning travel of Machine Learning, ma
 	* DenseNet
 		* [Densely Connected Convolutional Networks](https://www.youtube.com/watch?v=-W6y8xnd--U) (Gao Huang's oral on CVPR 2017, Best Paper)
 		* [DenseNet算法详解](http://blog.csdn.net/u014380165/article/details/75142664) (a good intruduction post)
+
+* Why Deep is better than Shallow? (some explainations of deep learning)
+
+	* [Theory 1-1: Can shallow network fit any function?](https://www.youtube.com/watch?v=KKT2VkTdFyc&list=PLJV_el3uVTsOh1F5eo9txATa4iww0Kp8K) (explain why shallow network, just one hidden layer can fit any function, straightforward)
+	* [Theory 1-2: Potential of Deep](https://www.youtube.com/watch?v=FN8jclCrqY0&index=2&list=PLJV_el3uVTsOh1F5eo9txATa4iww0Kp8K) (deep structure is more effective)
+	* [Theory 1-3: Is Deep better than Shallow?](https://www.youtube.com/watch?v=qpuLxXrHQB4&list=PLJV_el3uVTsOh1F5eo9txATa4iww0Kp8K&index=3) (warning of math!!!)	
 
 * Online Learning
 
