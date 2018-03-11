@@ -8,6 +8,8 @@ this repository is used for recording my learning travel of Machine Learning, ma
 
 * Regression
 
+	* [Difference Between Classification and Regression in Machine Learning](https://machinelearningmastery.com/classification-versus-regression-in-machine-learning/)
+
 	* Linear Regression
 
 		* 《DeepLearning》5.1.4
@@ -18,7 +20,7 @@ this repository is used for recording my learning travel of Machine Learning, ma
  
 	* Sigmoid function
 	* Softmax function 
-
+	
 * Back Propagation 
 
 	* 《机器学习》5.3
