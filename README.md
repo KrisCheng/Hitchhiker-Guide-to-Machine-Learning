@@ -50,9 +50,9 @@ this repository is used for recording my learning travel of Machine Learning, ma
 
 	* [《DeepLearning》7](http://www.deeplearningbook.org/contents/regularization.html)
 	* L1 regularization
-	* L2 regularization(weight decay)
-	* Dropout regularization("Inverted dropout")
-	* [Tricks on Machine Learning (Initialization, Regularization and Gradient Checking)](http://pengcheng.tech/2017/09/27/tricks-on-machine-learning-initialization-regularization-and-gradient-checking/)
+	* L2 regularization (weight decay)
+	* Dropout regularization ("Inverted dropout")
+	* [Tricks on Machine Learning (Initialization, Regularization and Gradient Checking)](http://pengcheng.tech/2017/09/27/tricks-on-machine-learning-initialization-regularization-and-gradient-checking/) (my post)
 	
 * Convolutional Neural Network
 
