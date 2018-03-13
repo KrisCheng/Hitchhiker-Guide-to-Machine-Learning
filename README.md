@@ -26,6 +26,7 @@ this repository is used for recording my learning travel of Machine Learning, ma
 	* 《机器学习》5.3
 	* [一文弄懂神经网络中的反向传播法——BackPropagation](http://www.cnblogs.com/charlotte77/p/5629865.html)
 	* [零基础入门深度学习(3) - 神经网络和反向传播算法](https://www.zybuluo.com/hanbingtao/note/476663) (a good start for programmer)
+	* Backpropagation through time (BPTT) (which is often used in RNN)
 
 * Activation Function
 
@@ -34,7 +35,7 @@ this repository is used for recording my learning travel of Machine Learning, ma
 	
 		* Sigmoid 
 		* tanh
-		* ReLU (Leaky ReLU)
+		* ReLU (and Leaky ReLU)
 
 * Autoencoder
 
@@ -79,13 +80,17 @@ this repository is used for recording my learning travel of Machine Learning, ma
 	* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) (very clear explaination) 
 	* [Gated RNN and Sequence Generation](https://www.youtube.com/watch?v=T8mGfIy9dWM) (a 2 hours video, including the lstm part, how to generate sequence and applications)
 
+* Sequence modeling
+
+	* [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/home/welcome) (Andrew Ng's course, introduce the sequence model problems, typical models. and application)
+
 * Support Vector Machine
 	
 	* 《机器学习》6
 	* Decision Boundary
 	* Kernel
 
-* Desision tree
+* Decision tree
 
 * Unsupervised learning
 
@@ -113,20 +118,20 @@ this repository is used for recording my learning travel of Machine Learning, ma
 	* Mean Normalization
 	* Batch Normalization
 
-* Optimization
+* Optimization Method
 
 	* Gradient Descent
 
 		* Stochastic Gradient Descent 
 			* 《DeepLearning》5.9 
 		* Batch Gradient Descent 
-		* Mini-batch Gradient Descent(between the previous two) 
+		* Mini-batch Gradient Descent (between the previous two) 
 		* Vanishing and Exploding gradient problem
 		* Random Initialization
 		* Gradient checking
 		* Momentum
-		* RMSprop(root mean squared prop)
-		* Adam optimization algorithm(Adaptive moment estimation)
+		* RMSprop (root mean squared prop)
+		* Adam optimization algorithm (Adaptive moment estimation)
 		* Learning rate decay
 		* [Gradient Descent, Momentum and Adam](http://pengcheng.tech/2017/09/28/gradient-descent-momentum-and-adam/)
 
@@ -210,7 +215,7 @@ this repository is used for recording my learning travel of Machine Learning, ma
 
 	* [LSTM Networks - The Math of Intelligence](https://www.youtube.com/watch?v=9zhrxE5PQgY) [code](https://github.com/kevin-bruhwiler/Simple-Vanilla-LSTM/blob/master/VanillaLSTM.py) (the basic version of LSTM without any frameworks, just numpy, actually I didnot fully understand)
 
-	* [Time Series Forecasting with the Long Short-Term Memory Network in Python](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/) (a time series forecasting example with LSTM, based on keras)
+	* [Time Series Forecasting with the Long Short-Term Memory Network in Python](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/) (a time series forecasting example with LSTM, based on keras framework)
 
 
 ## USERFUL LINKS:
