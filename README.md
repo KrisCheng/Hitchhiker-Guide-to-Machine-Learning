@@ -82,7 +82,7 @@ this repository is used for recording my learning travel of Machine Learning, ma
 
 * Sequence modeling
 
-	* [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/home/welcome) (Andrew Ng's course, introduce the sequence model problems, typical models. and application)
+	* [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/home/welcome) (Andrew Ng's course, introduce the sequence model problems, typical models and applications)
 
 * Support Vector Machine
 	
