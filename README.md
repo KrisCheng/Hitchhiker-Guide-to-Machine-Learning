@@ -23,6 +23,7 @@ this repository is used for recording my learning travel of Machine Learning, ma
 	
 * Back Propagation 
 
+	* [A Gentle Introduction of BP and BPTT](https://pengcheng.tech/2018/03/16/a-gentle-introduction-of-bp-and-bptt/) (my understanding of this topic, friendly to novices.) 
 	* 《机器学习》5.3
 	* [一文弄懂神经网络中的反向传播法——BackPropagation](http://www.cnblogs.com/charlotte77/p/5629865.html)
 	* [零基础入门深度学习(3) - 神经网络和反向传播算法](https://www.zybuluo.com/hanbingtao/note/476663) (a good start for programmer)
@@ -82,6 +83,7 @@ this repository is used for recording my learning travel of Machine Learning, ma
 
 * Sequence modeling
 
+	* [Sequence Wiki](https://en.wikipedia.org/wiki/Sequence)
 	* [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/home/welcome) (Andrew Ng's course, introduce the sequence model problems, typical models and applications)
 
 * Support Vector Machine
