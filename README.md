@@ -196,8 +196,8 @@ this repository is used for recording my learning travel of Machine Learning, ma
 
 * Cross-Entropy
 
-	* [交叉熵（Cross-Entropy）](http://blog.csdn.net/rtygbwwwerr/article/details/50778098) 	
-
+	* [交叉熵（Cross-Entropy）](http://blog.csdn.net/rtygbwwwerr/article/details/50778098)
+	* [神经网络的分类模型 LOSS 函数为什么要用 CROSS ENTROPY](http://jackon.me/posts/why-use-cross-entropy-error-for-loss-function/) (a straightforward explanation)	
 
 *Notes:*
 
