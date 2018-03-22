@@ -44,11 +44,11 @@ model.compile(loss = 'mae', optimizer = 'adam')
 print(model.summary())
 
 # fit model
-X, y = generate_examples(length, 10000, output)
-history = model.fit(X, y, batch_size = 10, epochs = 1)
+X, y = generate_examples(length, 1000, output)
+history = model.fit(X, y, batch_size = 20, epochs = 1)
 
 # evaluate model
-X, y = generate_examples(length, 10000, output)
+X, y = generate_examples(length, 1000, output)
 loss = model.evaluate(X, y, verbose = 0)
 print("MAE: %f" % loss)
 
