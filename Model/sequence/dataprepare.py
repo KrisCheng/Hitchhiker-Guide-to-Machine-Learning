@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 '''
 Desc: some data preprocessing practice, based on Python3.
 Author: Kris Peng

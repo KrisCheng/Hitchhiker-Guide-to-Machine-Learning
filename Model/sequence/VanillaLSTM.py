@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 '''
 Desc: the Vanilla LSTM model for echo sequence prediction problem, based on keras.
 Author: Kris Peng

@@ -154,7 +154,7 @@ print(model.summary())
 
 # fit model
 X, y = generate_data(75000, n_terms, largest, alphabet)
-model.fit(X, y, epochs = 2, batch_size = 32)
+model.fit(X, y, epochs = 1, batch_size = 16)
 
 # evaluate model
 X, y = generate_data(100, n_terms, largest, alphabet)

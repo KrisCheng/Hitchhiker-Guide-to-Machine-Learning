@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 '''
 Desc: the Stacked LSTM model for Damped Sine Wave Prediction Problem, based on keras.
 Author: Kris Peng

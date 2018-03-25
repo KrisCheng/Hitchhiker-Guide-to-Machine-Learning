@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 '''
 Desc: the CNN LSTM model for Sequence Classification Problem, based on keras.
 Author: Kris Peng
