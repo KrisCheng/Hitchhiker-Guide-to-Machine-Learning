@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 
 '''
-Desc: the Encoder-Decoder LSTM model for Sequence to Sequence Prediction Problem, based on keras.
+Desc: the Encoder-Decoder LSTM model for Sequence to Sequence Prediction Problem,
+calculate teh sum output of two input numbers, based on keras.
 Author: Kris Peng
 Copyright (c) 2018 - Kris Peng <kris.dacpc@gmail.com>
 '''
@@ -17,7 +18,7 @@ from math import sqrt
 from keras.models import Sequential
 from keras.layers import LSTM, Dense, TimeDistributed, RepeatVector
 
-# generate random sequence
+# 1.generate random sequence
 def random_sum_pairs(n_examples, n_numbers, largest):
     X = []
     y = []
@@ -28,7 +29,7 @@ def random_sum_pairs(n_examples, n_numbers, largest):
         y.append(sum_list)
     return X, y
 
-# convert data to string
+# 2.convert data to string
 def to_string(X, y, n_numbers, largest):
     # the max length of the string
     max_length = n_numbers * ceil(log10(largest+1)) + n_numbers - 1
@@ -46,7 +47,7 @@ def to_string(X, y, n_numbers, largest):
         ystr.append(strp)
     return Xstr, ystr
 
-# integer encode strings
+# 3.integer encode strings
 def integer_encode(X, y, alphabet):
     char_to_int = dict((c, i) for i, c in enumerate(alphabet))
     Xenc = list()
@@ -59,7 +60,7 @@ def integer_encode(X, y, alphabet):
         yenc.append(integer_encoded)
     return Xenc, yenc
 
-# one hot eocede
+# 4.one hot eocede
 def one_hot_encode(X, y, max_int):
     Xenc = []
     for seq in X:
@@ -109,7 +110,7 @@ def generate_data(n_samples, n_numbers, largest, alphabet):
     X, y = to_string(X, y, n_numbers, largest)
     # 3.integer encode
     X, y = integer_encode(X, y, alphabet)
-    # one hot eocode
+    # 4.one hot eocode
     X, y = one_hot_encode(X, y, len(alphabet))
     # reuturn as numpy arrays
     X, y = array(X), array(y)
@@ -154,7 +155,7 @@ print(model.summary())
 
 # fit model
 X, y = generate_data(75000, n_terms, largest, alphabet)
-model.fit(X, y, epochs = 1, batch_size = 16)
+model.fit(X, y, epochs = 1, batch_size = 32)
 
 # evaluate model
 X, y = generate_data(100, n_terms, largest, alphabet)

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 '''
-Desc: the CNN LSTM model for Sequence Classification Problem, based on keras.
+Desc: the CNN LSTM model for Sequence Classification Problem (predict the next frame), based on keras.
 Author: Kris Peng
 Copyright (c) 2018 - Kris Peng <kris.dacpc@gmail.com>
 '''
@@ -79,7 +79,7 @@ model.compile(loss = 'binary_crossentropy', optimizer = 'adam', metrics = ['acc'
 print(model.summary())
 
 # fit model
-X, y = generate_examples(size, 5000)
+X, y = generate_examples(size, 1000)
 model.fit(X, y, batch_size = 32, epochs = 1)
 
 # evaluate model

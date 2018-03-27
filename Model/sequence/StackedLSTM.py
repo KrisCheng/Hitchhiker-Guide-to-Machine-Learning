@@ -48,7 +48,7 @@ print(model.summary())
 
 # fit model
 X, y = generate_examples(length, 1000, output)
-history = model.fit(X, y, batch_size = 20, epochs = 1)
+history = model.fit(X, y, batch_size = 20, epochs = 10)
 
 # evaluate model
 X, y = generate_examples(length, 1000, output)
