@@ -210,7 +210,9 @@ this repository is used for recording my learning travel of Machine Learning, ma
 * TensorFlow
 
 	* [First exploration of TensorFlow](http://pengcheng.tech/2017/10/03/first-exploration-of-tensorflow/) (my post, covers the basic usage)
+
 	* [TensorFlow学习笔记1：入门](http://www.jeyzhang.com/tensorflow-learning-notes.html)
+
 	* [TensorFlow学习笔记2：构建CNN模型](http://www.jeyzhang.com/tensorflow-learning-notes-2.html) (the complete implementation of CNN on MNIST, based on TensorFlow, Recommend!)
 
 * LSTM
@@ -219,14 +221,17 @@ this repository is used for recording my learning travel of Machine Learning, ma
 
 	* [Time Series Forecasting with the Long Short-Term Memory Network in Python](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/) (a time series forecasting example with LSTM, based on keras framework)
 
+	* [Long Short-Term Memory Networks With Python](https://machinelearningmastery.com/lstms-with-python/) (a very good practice book with LSTM model, based on Keras)
 
 ## USERFUL LINKS:
 
-*Notes:* ranked by importance from my personal experience.
+*Notes:* order by importance from my personal experience.
 
 * [Machine Learning by Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning/home/welcome) (a very good choice for beginner, Andrew Ng can always express the idea clearly)
 
 * [Machine Learning Mastery](https://machinelearningmastery.com/) (those blogs are great(most by case-driven, and many wonderful insights)! but the books are not free)
+
+* [The Step-by-Step Guide to Applied Machine Learning](https://machinelearningmastery.com/start-here/) (if you are a programmer and want to apply something with machine learning, start here) 
 
 * [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) (a very good index, step by step, including many useful links)
  
@@ -252,6 +257,6 @@ this repository is used for recording my learning travel of Machine Learning, ma
 
 * [100 Best GitHub: Deep Learning](http://meta-guide.com/software-meta-guide/100-best-github-deep-learning) (I have not read it carefully, but it may be a good index for practice)
 
-* [机器学习&数据挖掘笔记_16（常见面试之机器学习算法思想简单梳理）](http://www.cnblogs.com/tornadomeet/p/3395593.html) (I have not read them, remain to when I get prepared for my interview)
+* [机器学习&数据挖掘笔记_16（常见面试之机器学习算法思想简单梳理）](http://www.cnblogs.com/tornadomeet/p/3395593.html) (I have not read them, remain to when I get prepare for my interview)
 
 * [MNIST数据集](http://yann.lecun.com/exdb/mnist/) (one of the most classic dataset)
