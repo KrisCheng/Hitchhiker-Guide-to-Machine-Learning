@@ -215,13 +215,17 @@ this repository is used for recording my learning travel of Machine Learning, ma
 
 	* [TensorFlow学习笔记2：构建CNN模型](http://www.jeyzhang.com/tensorflow-learning-notes-2.html) (the complete implementation of CNN on MNIST, based on TensorFlow, Recommend!)
 
-* LSTM
+* LSTM (Long Short-Term Memory)
 
 	* [LSTM Networks - The Math of Intelligence](https://www.youtube.com/watch?v=9zhrxE5PQgY) [code](https://github.com/kevin-bruhwiler/Simple-Vanilla-LSTM/blob/master/VanillaLSTM.py) (the basic version of LSTM without any frameworks, just numpy, actually I didnot fully understand)
 
 	* [Time Series Forecasting with the Long Short-Term Memory Network in Python](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/) (a time series forecasting example with LSTM, based on keras framework)
 
 	* [Long Short-Term Memory Networks With Python](https://machinelearningmastery.com/lstms-with-python/) (a very good practice book with LSTM model, based on Keras)
+
+* Time Series Forecast Related
+
+	* [Time Series Forecast Study with Python: Monthly Sales of French Champagne](https://machinelearningmastery.com/time-series-forecast-study-python-monthly-sales-french-champagne/) 
 
 ## USERFUL LINKS:
 
