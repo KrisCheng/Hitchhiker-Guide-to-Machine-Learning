@@ -25,4 +25,4 @@ dataFrame = DataFrame()
 temps = DataFrame(series.values)
 dataFrame = concat([temps.shift(3), temps.shift(2), temps.shift(1), temps], axis = 1)
 dataFrame.columns = ['t-2', 't-1', 't', 't+1']
-print(dataFrame.head(10))
+print(dataFrame.head(5))
