@@ -18,11 +18,18 @@ from pandas import concat
 # print(series.describe())
 
 series = Series.from_csv('daily-minimum-temperatures.csv',  header = 0)
-dataFrame = DataFrame()
+# dataFrame = DataFrame()
 # dataFrame['month'] =  [series.index[i].month for i in range(len(series))]
 # dataFrame['day'] =  [series.index[i].day for i in range(len(series))]
 # dataFrame['temperature'] =  [series[i] for i in range(len(series))]
+# temps = DataFrame(series.values)
+# dataFrame = concat([temps.shift(3), temps.shift(2), temps.shift(1), temps], axis = 1)
+# dataFrame.columns = ['t-2', 't-1', 't', 't+1']
+# print(dataFrame.head(5))
 temps = DataFrame(series.values)
-dataFrame = concat([temps.shift(3), temps.shift(2), temps.shift(1), temps], axis = 1)
-dataFrame.columns = ['t-2', 't-1', 't', 't+1']
-print(dataFrame.head(5))
+width = 3
+shifted = temps.shift(width - 1)
+window = shifted.rolling(window = width)
+dataframe = concat([window.min(), window.mean(), window.max(), temps], axis=1)
+dataframe.columns = ['min', 'mean', 'max', 't+1']
+print(dataframe.head(5))
