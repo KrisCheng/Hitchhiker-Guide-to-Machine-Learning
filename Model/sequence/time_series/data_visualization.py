@@ -50,7 +50,7 @@ series = Series.from_csv('daily-minimum-temperatures.csv', header = 0)
 # values = DataFrame(series.values)
 # lags = 7
 # columns = [values]
-# for i in range(1, (lags + 1)):
+# for i in range(1, (lags + 1)):    
 #     columns.append(values.shift(i))
 # dataframe = concat(columns, axis = 1)
 # columns = ['t + 1']
