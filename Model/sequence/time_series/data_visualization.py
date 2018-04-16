@@ -63,6 +63,15 @@ series = Series.from_csv('daily-minimum-temperatures.csv', header = 0)
 #     ax.set_title('t + 1 vs t - ' + str(i))
 #     pyplot.scatter(x = dataframe['t + 1'].values, y = dataframe['t - '+ str(i)].values)
 
-autocorrelation_plot(series)
+# autocorrelation_plot(series)
 
+# pyplot.show()
+
+# multiplicative decompose time series
+from pandas import Series
+from matplotlib import pyplot
+from statsmodels.tsa.seasonal import seasonal_decompose
+series = Series.from_csv( airline-passengers.csv , header=0)
+result = seasonal_decompose(series, model='multiplicative')
+result.plot()
 pyplot.show()
