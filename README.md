@@ -233,6 +233,8 @@ this repository is used for recording my learning travel of Machine Learning, ma
 
 * [Machine Learning by Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning/home/welcome) (a very good choice for beginner, Andrew Ng can always express the idea clearly)
 
+* [Machine Learning Yearning](http://www.mlyearning.org/) (Ng's great book!)
+
 * [Machine Learning Mastery](https://machinelearningmastery.com/) (those blogs are great(most by case-driven, and many wonderful insights)! but the books are not free)
 
 * [The Step-by-Step Guide to Applied Machine Learning](https://machinelearningmastery.com/start-here/) (if you are a programmer and want to apply something with machine learning, start here) 
