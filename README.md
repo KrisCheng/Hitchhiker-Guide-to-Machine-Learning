@@ -1,10 +1,10 @@
 # The Hitchhiker's Guide to Machine Learning
 
-this repository is used for recording my learning travel of Machine Learning, mainly including the theory part and practice part, enjoy it! 
+Most of the existing machine learning resource sources online are just table of contents. I want to build a roadmap, which is based on my own learning process (completely self-study), for those hitchhikers. This repository is based on this purpose and mainly focusses on materials from both theory and coding.
 
-*Note:* I do have read all the links attached, I think all of they are reliable materials, Please star me. ✧(≖ ◡ ≖)
+I do have read all the links attached here, and I think all of they are reliable materials. If you think this repository is helpful, please star me. ✧(≖ ◡ ≖)
 
-## THEORY PART
+## Basic
 
 * Regression
 
@@ -199,13 +199,12 @@ this repository is used for recording my learning travel of Machine Learning, ma
 	* [交叉熵（Cross-Entropy）](http://blog.csdn.net/rtygbwwwerr/article/details/50778098)
 	* [神经网络的分类模型 LOSS 函数为什么要用 CROSS ENTROPY](http://jackon.me/posts/why-use-cross-entropy-error-for-loss-function/) (a straightforward explanation)	
 
-*Notes:*
+## Papers
 
-《机器学习》refers to the book [《机器学习》](https://book.douban.com/subject/26708119/)  which is written by Prof [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/).
+* TBD 
 
-《DeepLearning》refers to the book [《DeepLearning》](http://www.deeplearningbook.org/) which is written by Ian Goodfellow、 Yoshua Bengio and Aaron Courville.
 
-## PRACTICE (CODING) PART
+## Coding
 
 * TensorFlow
 
@@ -227,7 +226,7 @@ this repository is used for recording my learning travel of Machine Learning, ma
 
 	* [Time Series Forecast Study with Python: Monthly Sales of French Champagne](https://machinelearningmastery.com/time-series-forecast-study-python-monthly-sales-french-champagne/) 
 
-## USERFUL LINKS:
+## Some Userful Links:
 
 *Notes:* order by importance from my personal experience.
 
