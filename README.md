@@ -199,9 +199,9 @@ I do have read all the links attached here, and I think all of they are reliable
 	* [交叉熵（Cross-Entropy）](http://blog.csdn.net/rtygbwwwerr/article/details/50778098)
 	* [神经网络的分类模型 LOSS 函数为什么要用 CROSS ENTROPY](http://jackon.me/posts/why-use-cross-entropy-error-for-loss-function/) (a straightforward explanation)	
 
-## Papers
+## Paper
 
-* TBD 
+* 
 
 
 ## Coding
