@@ -1,6 +1,6 @@
 # The Hitchhiker's Guide to Machine Learning
 
-Most of the existing machine learning resource sources online are just table of contents. I want to build a roadmap, which is based on my own learning process (completely self-study), for those hitchhikers. This repository is based on this purpose and mainly focusses on materials from both theory and coding.
+Most of the existing machine learning resource sources online are just table of contents. I want to build a roadmap, which is based on my own learning process (completely self-study), for hitchhikers. This repository is based on this purpose and mainly focusses on materials from both theory and coding.
 
 I do have read all the links attached here, and I think all of they are reliable materials. If you think this repository is helpful, please star me. ✧(≖ ◡ ≖)
 
