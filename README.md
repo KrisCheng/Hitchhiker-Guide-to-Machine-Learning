@@ -202,7 +202,7 @@ I do have read all the links attached here, and I think all of they are reliable
 **Notes:**
 
 * 《机器学习》 refers to the book [《机器学习》](https://book.douban.com/subject/26708119/) By [Zhi-hua Zhou](https://cs.nju.edu.cn/zhouzh/zhouzh.files/resume_cn.htm).
-* 《DeepLearning》 refers to the book [《DeepLearning》](http://www.deeplearningbook.org/)
+* 《DeepLearning》 refers to the book [《DeepLearning》](http://www.deeplearningbook.org/).
 
 ## Coding Part
 
@@ -214,7 +214,7 @@ I do have read all the links attached here, and I think all of they are reliable
 
 	* [TensorFlow学习笔记2：构建CNN模型](http://www.jeyzhang.com/tensorflow-learning-notes-2.html) (the complete implementation of CNN on MNIST, based on TensorFlow, Recommend!)
 
-* LSTM (Long Short-Term Memory)
+* Apply LSTM (Long Short-Term Memory)
 
 	* [LSTM Networks - The Math of Intelligence](https://www.youtube.com/watch?v=9zhrxE5PQgY) [code](https://github.com/kevin-bruhwiler/Simple-Vanilla-LSTM/blob/master/VanillaLSTM.py) (the basic version of LSTM without any frameworks, just numpy, actually I didnot fully understand)
 
@@ -222,14 +222,14 @@ I do have read all the links attached here, and I think all of they are reliable
 
 	* [Long Short-Term Memory Networks With Python](https://machinelearningmastery.com/lstms-with-python/) (a very good practice book with LSTM model, based on Keras)
 
-* Time Series Forecast Related
+* Practical Time Series Forecasting
 
 	* [Time Series Forecast Study with Python: Monthly Sales of French Champagne](https://machinelearningmastery.com/time-series-forecast-study-python-monthly-sales-french-champagne/) 
 	
 
 ## Other Userful Links:
 
-*Notes:* order by importance from my personal experience.
+**Notes:** sorted by importance from my personal perspective.
 
 * [Machine Learning by Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning/home/welcome) (a very good choice for beginner, Andrew Ng can always express the idea clearly)
 
