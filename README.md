@@ -4,7 +4,7 @@ Most of the existing machine learning resource sources online are just table of 
 
 I do have read all the links attached here, and I think all of they are reliable materials. If you think this repository is helpful, please star me. ✧(≖ ◡ ≖)
 
-## Basic
+## Basic Theory
 
 * Regression
 
@@ -199,12 +199,12 @@ I do have read all the links attached here, and I think all of they are reliable
 	* [交叉熵（Cross-Entropy）](http://blog.csdn.net/rtygbwwwerr/article/details/50778098)
 	* [神经网络的分类模型 LOSS 函数为什么要用 CROSS ENTROPY](http://jackon.me/posts/why-use-cross-entropy-error-for-loss-function/) (a straightforward explanation)	
 
-## Paper
+**Notes:**
 
-* 
+* 《机器学习》 refers to the book [《机器学习》](https://book.douban.com/subject/26708119/) By [Zhi-hua Zhou](https://cs.nju.edu.cn/zhouzh/zhouzh.files/resume_cn.htm).
+* 《DeepLearning》 refers to the book [《DeepLearning》](http://www.deeplearningbook.org/)
 
-
-## Coding
+## Coding Part
 
 * TensorFlow
 
@@ -225,8 +225,9 @@ I do have read all the links attached here, and I think all of they are reliable
 * Time Series Forecast Related
 
 	* [Time Series Forecast Study with Python: Monthly Sales of French Champagne](https://machinelearningmastery.com/time-series-forecast-study-python-monthly-sales-french-champagne/) 
+	
 
-## Some Userful Links:
+## Other Userful Links:
 
 *Notes:* order by importance from my personal experience.
 
